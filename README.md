@@ -6,9 +6,9 @@
 
 ### Languages and Tools:
 
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=42B784)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+[![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=42B784)](https://ru.vuejs.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)](https://firebase.google.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://ru.wikipedia.org/wiki/JavaScript)
 
 <!--
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
