@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
+[![todolist](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=todolist&logoColor=B4068E)](https://todolist-betaio-quantum-r.vercel.app/)
+[![online-show-case](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://online-show-case.vercel.app/)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
@@ -34,5 +37,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
 -->
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=todolist&logoColor=B4068E)](https://todolist-betaio-quantum-r.vercel.app/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://online-show-case.vercel.app/)
+
