@@ -4,7 +4,7 @@
 
 #### Current projects:
 
-[![api-store-editor](https://img.shields.io/badge/-OnlineShowCase-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://api-store-editor.vercel.app/)
+[![api-store-editor](https://img.shields.io/badge/-api-store-editor-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://api-store-editor.vercel.app/)
 [![online-show-case](https://img.shields.io/badge/-OnlineShowCase-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://online-show-case.vercel.app/)
 [![todolist](https://img.shields.io/badge/-todolist-090909?style=for-the-badge&logo=todolist&logoColor=B4068E)](https://todolist-betaio-quantum-r.vercel.app/)
 
