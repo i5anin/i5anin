@@ -17,6 +17,8 @@
 [![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=42B784)](https://vuejs.org/guide/introduction.html)
 [![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)](https://firebase.google.com/docs/guides)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://javascript.info/)
+[![OzonAPI](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)]([https://javascript.info/](https://docs.ozon.ru/api/seller/#tag/ProductAPI))
+[![AliExpressAPI](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)]([https://javascript.info/](https://business.aliexpress.ru/docs/auth))
 
 <!--
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
