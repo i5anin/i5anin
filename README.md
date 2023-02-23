@@ -23,18 +23,18 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-      <!-- <a href="https://www.youtube.com/channel/UCbmJEEZ-Q-dRVV7j8wOr5cw" target="_blank">
+      <a href="https://www.youtube.com/channel/UCbmJEEZ-Q-dRVV7j8wOr5cw" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a> -->
+    </a>
     <a href="https://t.me/i5anin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/i5anin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <!-- <a href="https://rutube.ru/channel/25044728/" target="_blank">
-      <img src="https://github.com/i5anin/i5anin/blob/main/ico/rutube.jpg" width="40" height="40" alt="RuTube Badge"/>
-    </a> -->
+    <a href="https://rutube.ru/channel/25044728/" target="_blank">
+      <img src="https://github.com/i5anin/i5anin/blob/main/ico/rutube.png" width="40" height="40" alt="RuTube Badge"/>
+    </a>
   </div>
 
 ---
