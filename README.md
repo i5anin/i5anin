@@ -1,44 +1,100 @@
-<!-- [![Header](https://github.com/Quantum-PizZzA/Quantum-PizZzA/tree/main/assets/header.png)](https://www.shpavda.com/) -->
+# Привет, меня зовут Алексей!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+---
 
-#### Current projects:
+### :man_technologist: Обо мне:
 
-[![api-store-editor](https://img.shields.io/badge/-ApiStoreEditor-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://api-store-editor.vercel.app/)
-[![online-show-case](https://img.shields.io/badge/-OnlineShowCase-090909?style=for-the-badge&logo=online-show-case&logoColor=4F7DB3)](https://online-show-case.vercel.app/)
-[![todolist](https://img.shields.io/badge/-todolist-090909?style=for-the-badge&logo=todolist&logoColor=B4068E)](https://todolist-betaio-quantum-r.vercel.app/)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
 
-### Languages and Tools:
+- :zap: Хочу освоить новую проффесию и найти работу.
 
-[![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=42B784)](https://vuejs.org/guide/introduction.html)
-[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)](https://firebase.google.com/docs/guides)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://javascript.info/)
-[![OzonAPI](https://img.shields.io/badge/-OzonAPI-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://docs.ozon.ru/api/seller/#tag/ProductAPI)
-[![AliExpressAPI](https://img.shields.io/badge/-AliExpressAPI-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://business.aliexpress.ru/docs/local-create-products)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
-<!--
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
--->
+---
 
-### Follow Me:
+### 🤝 Социальные сети:
 
-<!-- [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/sergeyisanin) -->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/tehnomaniak07" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a>
+  </div>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/i5anin)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/i5anin)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/i5anin)
+---
 
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/i5anin)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/i5anin) -->
+### 💻 Технологии:
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 💻 Пройденные курсы:
+
+| Курсы                                                           |       Дата        |
+| --------------------------------------------------------------- | :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
