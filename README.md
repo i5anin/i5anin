@@ -35,9 +35,9 @@
     <!-- <a href="https://rutube.ru/channel/25044728/" target="_blank">
       <img src="https://github.com/i5anin/i5anin/blob/main/ico/rutube.png" width="40" height="40" alt="RuTube Badge"/>
     </a> -->
-    <a href="https://www.tiktok.com/@sergey.isanin" target="_blank">
+    <!-- <a href="https://www.tiktok.com/@sergey.isanin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670132.png" width="40" height="40" alt="TikTok Badge"/>
-    </a>
+    </a> -->
 
   </div>
 
