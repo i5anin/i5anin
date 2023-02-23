@@ -87,6 +87,8 @@
 4. Linkedin
 5. Канал Yandex Zen
 6. Linux
+7. Flutter
+
 -->
 
 <!-- ### 💻 Codewars:
