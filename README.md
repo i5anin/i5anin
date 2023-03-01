@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 Мой путь в it начался ещё со школы и института, немного поработал в it сфере, укрепил свои знания курсами по Vue.js Skillbox, где я проходил 7-месяцев курсы.
 
@@ -82,6 +82,76 @@
 | skillbox.ru | Программа профессиональной переподготовки «Frontend-разработчик» | 08.2022 - 03.2023 |
 
 ---
+
+### 💻 Публичное портфолио
+
+<table>
+
+  <tr>
+    <td width='320px'>
+      <a href='https://github.com/i5anin/coin-scss-js-express' title='Open repository'>
+        <img src='assets/coin.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/coin-scss-js-express' title='Open repository'>Coin</a></h3>
+      <p>Прогрессивное веб-приложение (постоянное хранилище), CRUD, Websocket, Model View Presenter, шаблоны, одностраничное приложение, Маршрутизация, перетаскивание, диаграммы, e2e-тесты</p>
+      <p>NodeJS, Express, HTML, SCSS, JavaScript, ChartJS, Cypress, Yandex maps</p>
+      <p>«Coin.» — демо-версия банковской системы с авторизацией, протоколированием, работой со счетами и пользовательскими транзакциями</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Open repository'>
+        <img src='assets/skb-crm.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Open repository'>Skb CRM</a></h3>
+      <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing, Pagination</p>
+      <p>Vue</p>
+      <p>«Skb CRM» — Служба управления взаимоотношениями с клиентами</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://i5anin.github.io/stdpls-pug-scss-js' title='View project demo'>
+        <img src='assets/stdpls.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/stdpls-pug-scss-js' title='Open repository'>SitDownPls</a></h3>
+      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
+      <p>PUG, SCSS, JavaScript, Yandex maps, Swiper, Input mask, Choices, Nouislider, Progressbar, Gulp, Express, Nodemailer</p>
+      <p>«SitDownPls» — сеть магазинов мебели и аксессуаров для дома</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://i5anin.github.io/evklid-js-html-css' title='View project demo'>
+        <img src='assets/evklid.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/evklid-js-html-css' title='Open repository'>Evklid</a></h3>
+      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
+      <p>HTML, CSS, JavaScript, JQuery, Swiper slider, Tabs, Gulp</p>
+      <p>«Evklid» — демонстрация проектной компании</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://i5anin.github.io/lagoona-html-css/' title='View project demo'>
+        <img src='assets/lagoona.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/lagoona-html-css' title='Open repository'>Lagoona</a></h3>
+      <p>HTML, CSS</p>
+      <p>«Lagoona» — hotel chain</p>
+    </td>
+  </tr>
+</table>
 
 <!--
 ### ⚙️ В планах:
