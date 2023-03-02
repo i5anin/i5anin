@@ -41,7 +41,7 @@
     </a> 
      <a href="https://www.tiktok.com/@sergey.isanin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670132.png" width="40" height="40" alt="TikTok Badge"/>
-    </a> 
+    </a>
 
   </div>
 
@@ -88,12 +88,12 @@
 
   <tr>
     <td width='320px'>
-      <a href='https://github.com/i5anin/coin-scss-js-express' title='Open repository'>
+      <a href='https://github.com/i5anin/coin-scss-js-express' title='Открыть репозиторий'>
         <img src='assets/coin.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/coin-scss-js-express' title='Open repository'>Coin</a></h3>
+      <h3><a href='https://github.com/i5anin/coin-scss-js-express' title='Открыть репозиторий'>Coin</a></h3>
       <p>Прогрессивное веб-приложение (постоянное хранилище), CRUD, Websocket, Model View Presenter, шаблоны, одностраничное приложение, Маршрутизация, перетаскивание, диаграммы, e2e-тесты</p>
       <p>NodeJS, Express, HTML, SCSS, JavaScript, ChartJS, Cypress, Yandex maps</p>
       <p>«Coin.» — демо-версия банковской системы с авторизацией, протоколированием, работой со счетами и пользовательскими транзакциями</p>
@@ -101,12 +101,12 @@
   </tr>
   <tr>
     <td width='320px'>
-      <a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Open repository'>
+      <a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Открыть репозиторий'>
         <img src='assets/skb-crm.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Open repository'>Skb CRM</a></h3>
+      <h3><a href='https://github.com/i5anin/crm' title='Открыть репозиторий'>Skb CRM</a></h3>
       <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing, Pagination</p>
       <p>Vue</p>
       <p>«Skb CRM» — Служба управления взаимоотношениями с клиентами</p>
@@ -114,40 +114,51 @@
   </tr>
   <tr>
     <td width='320px'>
-      <a href='https://i5anin.github.io/stdpls-pug-scss-js' title='View project demo'>
+      <a href='https://i5anin.github.io/stdpls-pug-scss-js' title='Просмотр демо-версии проекта'>
         <img src='assets/stdpls.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/stdpls-pug-scss-js' title='Open repository'>SitDownPls</a></h3>
+      <h3><a href='https://github.com/i5anin/stdpls-pug-scss-js' title='Открыть репозиторий'>SitDownPls</a></h3>
       <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
       <p>PUG, SCSS, JavaScript, Yandex maps, Swiper, Input mask, Choices, Nouislider, Progressbar, Gulp, Express, Nodemailer</p>
       <p>«SitDownPls» — сеть магазинов мебели и аксессуаров для дома</p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width='320px'>
-      <a href='https://i5anin.github.io/evklid-js-html-css' title='View project demo'>
+      <a href='https://i5anin.github.io/evklid-js-html-css' title='Просмотр демо-версии проекта'>
         <img src='assets/evklid.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/evklid-js-html-css' title='Open repository'>Evklid</a></h3>
+      <h3><a href='https://github.com/i5anin/evklid-js-html-css' title='Открыть репозиторий'>Evklid</a></h3>
       <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
       <p>HTML, CSS, JavaScript, JQuery, Swiper slider, Tabs, Gulp</p>
       <p>«Evklid» — демонстрация проектной компании</p>
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
     <td width='320px'>
-      <a href='https://i5anin.github.io/lagoona-html-css/' title='View project demo'>
+      <a href='https://i5anin.github.io/lagoona-html-css/' title='Просмотр демо-версии проекта'>
         <img src='assets/lagoona.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/lagoona-html-css' title='Open repository'>Lagoona</a></h3>
+      <h3><a href='https://github.com/i5anin/lagoona-html-css' title='Открыть репозиторий'>Lagoona</a></h3>
       <p>HTML, CSS</p>
       <p>«Lagoona» — hotel chain</p>
+    </td>
+  </tr> -->
+  <tr>
+    <td width='320px'>
+      <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
+        <img src='#' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
+      <p>ToDoList</p>
     </td>
   </tr>
 </table>
