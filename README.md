@@ -57,7 +57,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
-   <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
 
 </div>
 
@@ -88,12 +90,12 @@
 
   <tr>
     <td width='320px'>
-      <a href='https://github.com/i5anin/coin-scss-js-express' title='Открыть репозиторий'>
+      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
         <img src='assets/coin.gif' width='300px'>
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/coin-scss-js-express' title='Открыть репозиторий'>Coin</a></h3>
+      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin</a></h3>
       <p>Прогрессивное веб-приложение (постоянное хранилище), CRUD, Websocket, Model View Presenter, шаблоны, одностраничное приложение, Маршрутизация, перетаскивание, диаграммы, e2e-тесты</p>
       <p>NodeJS, Express, HTML, SCSS, JavaScript, ChartJS, Cypress, Yandex maps</p>
       <p>«Coin.» — демо-версия банковской системы с авторизацией, протоколированием, работой со счетами и пользовательскими транзакциями</p>
