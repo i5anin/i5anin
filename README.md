@@ -87,92 +87,113 @@
 ### 💻 Публичное портфолио
 
 <table>
-  <tr>
-    <td width='320px'>
-      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
-        <img src='#' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Магазин нижнего белья</a></h3>
-      <p>Vue3</p>
-    </td>
-  </tr>
-  <tr>
-    <td width='320px'>
-      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
-        <img src='#' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'> Магазин электроники технозавр</a></h3>
-      <p>Vue2</p>
-    </td>
-  </tr>
-  <tr>
-    <td width='320px'>
-      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
-        <img src='assets/coin.gif' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin</a></h3>
-      <p>JavaScript</p>
-    </td>
-  </tr>
-  <tr>
-    <td width='320px'>
-      <a href='https://github.com/i5anin/crm-skillbox-js-css-express-mongodb' title='Открыть репозиторий'>
-        <img src='assets/skb-crm.gif' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://github.com/i5anin/crm' title='Открыть репозиторий'>CRM</a></h3>
-      <p>Vue 3</p>
-    </td>
-  </tr>
-  <tr>
-    <td width='320px'>
-      <a href='https://i5anin.github.io/stdpls-pug-scss-js' title='Просмотр демо-версии проекта'>
-        <img src='assets/stdpls.gif' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://github.com/i5anin/stdpls-pug-scss-js' title='Открыть репозиторий'>SitDownPls</a></h3>
-      <p>Многостраничный лендинг</p>
-    </td>
-  </tr>
-   <tr>
-    <td width='320px'>
-      <a href='https://i5anin.github.io/evklid-js-html-css' title='Просмотр демо-версии проекта'>
-        <img src='assets/evklid.gif' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://github.com/i5anin/evklid-js-html-css' title='Открыть репозиторий'>Evklid</a></h3>
-      <p>Одностраничный лендинг</p>
-    </td>
-  </tr> 
-   <tr>
-    <td width='320px'>
-      <a href='https://i5anin.github.io/lagoona-html-css/' title='Просмотр демо-версии проекта'>
-        <img src='assets/lagoona.gif' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://github.com/i5anin/lagoona-html-css' title='Открыть репозиторий'>Lagoona</a></h3>
-      <p>Одностраничный лендинг</p>
-    </td>
-  </tr> 
-  <tr>
-    <td width='320px'>
-      <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
-        <img src='#' width='300px'>
-      </a>
-    </td>
-    <td>
-      <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-      <p>Vue 3 Первый проект</p>
-    </td>
-  </tr>
+    <tr>
+        <!-- <td width='320px'>
+                    <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+                        <img src='#' width='300px'>
+                    </a>
+                </td> -->
+        <td>
+            <h3>
+                <a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>
+                    Магазин нижнего белья
+                </a>
+            </h3>
+            <p>Vue3</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+              <img src='#' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/vue/-/tree/main/08_api_2' title='Открыть репозиторий'>Магазин
+                    электроники технозавр</a>
+            </h3>
+            <p>Vue2</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+              <img src='assets/coin.gif' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+                    Coin банк
+                </a>
+            </h3>
+            <p>JavaScript</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='#' title='Открыть репозиторий'>
+              <img src='assets/skb-crm.gif' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
+            <p>Vue 3</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='#' title='Просмотр демо-версии проекта'>
+              <img src='assets/stdpls.gif' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_weblayout_pro'
+                    title='Открыть репозиторий'>SitDownPls</a></h3>
+            <p>Многостраничный лендинг</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='#' title='Просмотр демо-версии проекта'>
+              <img src='assets/evklid.gif' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/weblayout_pro/-/tree/main/04_optimization'
+                    title='Открыть репозиторий'>Evklid</a></h3>
+            <p>Одностраничный лендинг</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='#' title='Просмотр демо-версии проекта'>
+              <img src='assets/lagoona.gif' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3>
+                <a href='https://gitlab.com/sergey.isanin/weblayout/-/tree/main/10_advanced-css'
+                    title='Открыть репозиторий'>Lagoona</a>
+            </h3>
+            <p>Одностраничный лендинг</p>
+        </td>
+    </tr>
+    <!-- ----- -->
+    <tr>
+        <!-- <td width='320px'>
+            <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
+              <img src='#' width='300px'>
+            </a>
+          </td> -->
+        <td>
+            <h3><a href='#' title='Открыть репозиторий'>ToDoList</a></h3>
+            <p>Vue 3 Первый проект</p>
+        </td>
+    </tr>
 </table>
