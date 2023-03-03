@@ -87,7 +87,28 @@
 ### 💻 Публичное портфолио
 
 <table>
-
+  <tr>
+    <td width='320px'>
+      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+        <img src='#' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Магазин нижнего белья</a></h3>
+      <p>Vue3</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+        <img src='#' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'> Магазин электроники технозавр</a></h3>
+      <p>Vue2</p>
+    </td>
+  </tr>
   <tr>
     <td width='320px'>
       <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
@@ -96,9 +117,7 @@
     </td>
     <td>
       <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin</a></h3>
-      <p>Прогрессивное веб-приложение (постоянное хранилище), CRUD, Websocket, Model View Presenter, шаблоны, одностраничное приложение, Маршрутизация, перетаскивание, диаграммы, e2e-тесты</p>
-      <p>NodeJS, Express, HTML, SCSS, JavaScript, ChartJS, Cypress, Yandex maps</p>
-      <p>«Coin.» — демо-версия банковской системы с авторизацией, протоколированием, работой со счетами и пользовательскими транзакциями</p>
+      <p>JavaScript</p>
     </td>
   </tr>
   <tr>
@@ -108,10 +127,8 @@
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/i5anin/crm' title='Открыть репозиторий'>Skb CRM</a></h3>
-      <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing, Pagination</p>
-      <p>Vue</p>
-      <p>«Skb CRM» — Служба управления взаимоотношениями с клиентами</p>
+      <h3><a href='https://github.com/i5anin/crm' title='Открыть репозиторий'>CRM</a></h3>
+      <p>Vue 3</p>
     </td>
   </tr>
   <tr>
@@ -122,12 +139,10 @@
     </td>
     <td>
       <h3><a href='https://github.com/i5anin/stdpls-pug-scss-js' title='Открыть репозиторий'>SitDownPls</a></h3>
-      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
-      <p>PUG, SCSS, JavaScript, Yandex maps, Swiper, Input mask, Choices, Nouislider, Progressbar, Gulp, Express, Nodemailer</p>
-      <p>«SitDownPls» — сеть магазинов мебели и аксессуаров для дома</p>
+      <p>Многостраничный лендинг</p>
     </td>
   </tr>
-  <!-- <tr>
+   <tr>
     <td width='320px'>
       <a href='https://i5anin.github.io/evklid-js-html-css' title='Просмотр демо-версии проекта'>
         <img src='assets/evklid.gif' width='300px'>
@@ -135,12 +150,10 @@
     </td>
     <td>
       <h3><a href='https://github.com/i5anin/evklid-js-html-css' title='Открыть репозиторий'>Evklid</a></h3>
-      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
-      <p>HTML, CSS, JavaScript, JQuery, Swiper slider, Tabs, Gulp</p>
-      <p>«Evklid» — демонстрация проектной компании</p>
+      <p>Одностраничный лендинг</p>
     </td>
-  </tr> -->
-  <!-- <tr>
+  </tr> 
+   <tr>
     <td width='320px'>
       <a href='https://i5anin.github.io/lagoona-html-css/' title='Просмотр демо-версии проекта'>
         <img src='assets/lagoona.gif' width='300px'>
@@ -148,10 +161,9 @@
     </td>
     <td>
       <h3><a href='https://github.com/i5anin/lagoona-html-css' title='Открыть репозиторий'>Lagoona</a></h3>
-      <p>HTML, CSS</p>
-      <p>«Lagoona» — hotel chain</p>
+      <p>Одностраничный лендинг</p>
     </td>
-  </tr> -->
+  </tr> 
   <tr>
     <td width='320px'>
       <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
@@ -160,37 +172,7 @@
     </td>
     <td>
       <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-      <p>ToDoList</p>
+      <p>Vue 3 Первый проект</p>
     </td>
   </tr>
 </table>
-
-<!--
-### ⚙️ В планах:
-
-1. React
-2. Canva
-3. Raspberrypi
-4. Linkedin
-5. Канал Yandex Zen
-6. Linux
-7. Flutter
-
--->
-
-<!-- ### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large) -->
-
-<!-- ### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table> -->
