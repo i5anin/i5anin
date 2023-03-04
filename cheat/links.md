@@ -1,10 +1,8 @@
-### ⭐ Dev
-
-### Backend
+## Backend
 
 [`Render`](https://render.com/)
 
-[`Firebase console`](https://console.firebase.google.com/project/online-show-case/database/online-show-case-default-rtdb/data)
+[`Firebase console`](https://console.firebase.google.com/)
 
 ### SQL
 
@@ -20,9 +18,9 @@
 
 [`Create a new SQL program - myCompiler`](https://www.mycompiler.io/new/sql)
 
-### Frontend
+## Frontend
 
-### html
+### HTML
 
 [`HTML Tutorial`](https://www.w3schools.com/html/)
 
@@ -34,7 +32,7 @@
 
 [`HTML уроки с нуля - учебник для начинающих`](https://html5css.ru/html/default.php)
 
-### css
+### CSS
 
 [`CSS-трюки`](https://css-tricks.com/)
 
@@ -70,7 +68,7 @@
 
 [`Snake game on Vue.js - CodeSandbox`](https://codesandbox.io/s/qx62q3453w)
 
-### javascript
+### JavaScript
 
 [`Дата и Время`](https://learn.javascript.ru/datetime)
 
@@ -82,7 +80,7 @@
 
 [`Прячем JavaScript-код на фронтенде от посторонних`](https://tproger.ru/blogs/js-obfuscation/)
 
-### сборщики
+### Сборщики
 
 [`rollup.js`](https://rollupjs.org/guide/en/)
 
@@ -300,7 +298,7 @@
 
 ### школа
 
-[`Введение`](https://lk.result.school/pl/teach/control/lesson/view?id=267173371&editMode=0)
+[`Result.School`](https://lk.result.school/pl/teach/control/lesson/view?id=267173371&editMode=0)
 
 [`Курс Веб-разработчик — онлайн-обучение web-программированию и разработке с нуля в сервисе Яндекс Практикум`](https://practicum.yandex.ru/promo/web-course/web-developer?utm_source=yandex&utm_medium=cpc&utm_campaign=Yan_Net_RF_Webr_Kursy_460&utm_content=sty_context%3As_images.yandex.ru%3Acid_77688601%3Agid_5009161758%3Akw_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%20%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%3Apid_40740442307%3Aaid_12638243841%3Acrid_0%3Arid_40740442307%3Ap_0%3Apty_none%3Amty_%3Amkw_%3Adty_desktop%3Acgcid_0%3Arn_%D0%93%D1%83%D1%81%D1%8C-%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%3Arid_10661&utm_term=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%20%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F&yclid=245024922733175087)
 
@@ -318,7 +316,7 @@
 
 [`JustValidate - modern form validation library written in Typescript`](https://just-validate.dev/documentation/)
 
-### linux
+### Linux
 
 [`Gnome Shell Themes - Gnome-look.org`](https://www.gnome-look.org/browse?cat=134&ord=latest)
 
@@ -328,7 +326,7 @@
 
 [`Описание разметки файла README.md`](https://github.com/GnuriaN/format-README/blob/master/README.md)
 
-### хостинг простой
+### Хостинг простой
 
 [`Хостинг Картинок`](https://imgbb.com/)
 
