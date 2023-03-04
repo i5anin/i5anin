@@ -109,7 +109,35 @@
                     Магазин нижнего белья Moire
                 </a>
             </h3>
-            <p>Vue3</p>
+            <p>Vue 3</p>
+            <p>Финальный проект Skillbox</p>
+        </td>
+    </tr>
+        <!-- -- Coin банк -- -->
+    <tr>
+        <td width='320px'>
+            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
+              <img src='assets/coin.gif' width='300px'>
+            </a>
+          </td>
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
+                    Coin банк BTC
+                </a>
+            </h3>
+            <p>JavaScript</p>
+        </td>
+    </tr>
+    <!-- -- CRM -- -->
+    <tr>
+        <td width='320px'>
+            <a href='#' title='Просмотр демо-версии проекта'>
+              <img src='assets/skb-crm.gif' width='300px'>
+            </a>
+          </td> 
+        <td>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
+            <p>Vue 3</p>
         </td>
     </tr>
     <!-- -- Technozavrrr -- -->
@@ -123,35 +151,8 @@
             <h3><a href='https://gitlab.com/sergey.isanin/vue/-/tree/main/08_api_2' title='Открыть репозиторий'>Магазин
                     электроники Technozavrrr</a>
             </h3>
-            <p>Vue2</p>
+            <p>Vue 2</p>
             <p>Раннья версия Moire</p>
-        </td>
-    </tr>
-    <!-- -- Coin банк -- -->
-    <tr>
-        <td width='320px'>
-            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
-              <img src='assets/coin.gif' width='300px'>
-            </a>
-          </td>
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
-                    Coin банк
-                </a>
-            </h3>
-            <p>JavaScript</p>
-        </td>
-    </tr>
-    <!-- ----- -->
-    <tr>
-        <td width='320px'>
-            <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='assets/skb-crm.gif' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
-            <p>Vue 3</p>
         </td>
     </tr>
     <!-- -- SitDownPls -- -->
