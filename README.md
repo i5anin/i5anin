@@ -96,36 +96,38 @@
 ### 💻 Публичное портфолио
 
 <table>
+    <!-- -- Магазин Moire -- -->
     <tr>
-        <!-- <td width='320px'>
+         <td width='320px'>
                     <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть проект'>
-                        <img src='#' width='300px'>
+                        <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
                     </a>
-                </td> -->
+                </td> 
         <td>
             <h3>
                 <a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>
-                    Магазин нижнего белья
+                    Магазин нижнего белья Moire
                 </a>
             </h3>
             <p>Vue3</p>
         </td>
     </tr>
-    <!-- ----- -->
+    <!-- -- Technozavrrr -- -->
     <tr>
-        <!-- <td width='320px'>
+         <td width='320px'>
             <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
-              <img src='#' width='300px'>
+              <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
             </a>
-          </td> -->
+          </td> 
         <td>
             <h3><a href='https://gitlab.com/sergey.isanin/vue/-/tree/main/08_api_2' title='Открыть репозиторий'>Магазин
-                    электроники технозавр</a>
+                    электроники Technozavrrr</a>
             </h3>
             <p>Vue2</p>
+            <p>Раннья версия Moire</p>
         </td>
     </tr>
-    <!-- ----- -->
+    <!-- -- Coin банк -- -->
     <tr>
         <td width='320px'>
             <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
@@ -197,7 +199,7 @@
     <tr>
         <td width='320px'>
             <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
-              <img src='#' width='300px'>
+              <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
             </a>
           </td> 
         <td>
