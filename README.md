@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px">.
 
 Мой путь в it начался ещё со школы и института, немного поработал в it сфере, укрепил свои знания курсами по Vue.js Skillbox, где я проходил 7-месяцев курсы.
 
@@ -139,8 +139,8 @@
     <!-- -- Магазин Moire -- -->
     <tr>
          <td width='320px'>
-                    <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть проект'>
-                        <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
+                    <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
+                        <img src='./img/moire.png' width='300px'>
                     </a>
                 </td> 
         <td>
@@ -156,8 +156,8 @@
         <!-- -- Coin банк -- -->
     <tr>
         <td width='320px'>
-            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
-              <img src='gif/coin.gif' width='300px'>
+            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии'>
+              <img src='img/coin.gif' width='300px'>
             </a>
           </td>
         <td>
@@ -171,8 +171,8 @@
     <!-- -- CRM -- -->
     <tr>
         <td width='320px'>
-            <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='gif/skb-crm.gif' width='300px'>
+            <a href='#' title='Просмотр демо-версии '>
+              <img src='img/skb-crm.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -183,8 +183,8 @@
     <!-- -- Technozavrrr -- -->
     <tr>
          <td width='320px'>
-            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
-              <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
+            <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии'>
+              <img src='img/tehozavrrr.png' width='300px'>
             </a>
           </td> 
         <td>
@@ -198,8 +198,8 @@
     <!-- -- SitDownPls -- -->
     <tr>
         <td width='320px'>
-            <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='gif/stdpls.gif' width='300px'>
+            <a href='#' title='Просмотр демо-версии'>
+              <img src='img/stdpls.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -211,8 +211,8 @@
     <!-- -- Evklid -- -->
     <tr>
         <td width='320px'>
-            <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='gif/evklid.gif' width='300px'>
+            <a href='#' title='Просмотр демо-версии'>
+              <img src='img/evklid.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -224,8 +224,8 @@
     <!-- -- Lagoona -- -->
     <tr>
         <td width='320px'>
-            <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='gif/lagoona.gif' width='300px'>
+            <a href='#' title='Просмотр демо-версии'>
+              <img src='img/lagoona.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -239,8 +239,8 @@
     <!-- -- ToDoList -- -->
     <tr>
         <td width='320px'>
-            <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии проекта'>
-              <img src='https://cdn-icons-png.flaticon.com/512/739/739249.png' width='30px'>
+            <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии'>
+              <img src='img/todo-list.png' width='300px'>
             </a>
           </td> 
         <td>
