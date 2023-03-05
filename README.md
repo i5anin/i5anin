@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px">.
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
 
 Мой путь в it начался ещё со школы и института, немного поработал в it сфере, укрепил свои знания курсами по Vue.js Skillbox, где я проходил 7-месяцев курсы.
 
