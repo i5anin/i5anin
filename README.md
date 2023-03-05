@@ -83,7 +83,7 @@
 </a>&nbsp
 <!-- github -->
 <a href="https://github.com/i5anin" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
+  <img src="https://github.com/i5anin/i5anin/blob/main/ico/github.svg" title="github" alt="github" width="40" height="40"/>
 </a>&nbsp
 <!-- gitlab -->
 <a href="https://gitlab.com/sergey.isanin" target="_blank">
@@ -157,7 +157,7 @@
     <tr>
         <td width='320px'>
             <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии проекта'>
-              <img src='assets/coin.gif' width='300px'>
+              <img src='gif/coin.gif' width='300px'>
             </a>
           </td>
         <td>
@@ -172,7 +172,7 @@
     <tr>
         <td width='320px'>
             <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='assets/skb-crm.gif' width='300px'>
+              <img src='gif/skb-crm.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -199,7 +199,7 @@
     <tr>
         <td width='320px'>
             <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='assets/stdpls.gif' width='300px'>
+              <img src='gif/stdpls.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -212,7 +212,7 @@
     <tr>
         <td width='320px'>
             <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='assets/evklid.gif' width='300px'>
+              <img src='gif/evklid.gif' width='300px'>
             </a>
           </td> 
         <td>
@@ -225,7 +225,7 @@
     <tr>
         <td width='320px'>
             <a href='#' title='Просмотр демо-версии проекта'>
-              <img src='assets/lagoona.gif' width='300px'>
+              <img src='gif/lagoona.gif' width='300px'>
             </a>
           </td> 
         <td>
