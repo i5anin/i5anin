@@ -55,10 +55,10 @@
   <img 
   src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
 </a>&nbsp
-<!-- nuxt.js -->
-<a href="https://vuejs.org/guide/introduction.html" target="_blank">
+<!-- Nuxt.js -->
+<a href="https://nuxtjs.org/" target="_blank">
   <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt.js" alt="nuxt.js" width="40" height="40"/>
+  src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>
 </a>&nbsp
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference" target="_blank">
