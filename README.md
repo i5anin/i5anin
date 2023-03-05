@@ -50,17 +50,44 @@
 ### 💻 Технологии:
 
 <div>
+<!-- vue -->
+<a href="https://vuejs.org/guide/introduction.html" target="_blank">
   <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp 
+  src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+</a>&nbsp 
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference" target="_blank">
   <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</a>&nbsp
+<!-- Git -->
+<a href="https://git-scm.com/docs" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
+</a>&nbsp
+<!-- HTML 5 -->
+<a href="https://www.w3schools.com/html/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>
+</a>&nbsp
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+</a>&nbsp
+<!-- Firebase -->
+<a href="https://firebase.google.com/docs/database/web/read-and-write" target="_blank">
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+</a>&nbsp
+<!-- github -->
+<a href="https://github.com/i5anin" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
+</a>&nbsp
+<!-- gitlab -->
+<a href="https://gitlab.com/sergey.isanin" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
+</a>&nbsp
+<!-- sass -->
+<a href="https://sass-lang.com/documentation/syntax" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
+</a>&nbsp
 
 </div>
 
@@ -69,10 +96,18 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/i5anin/i5anin/blob/main/ico/DaVinciResolve.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  
+<!-- DaVinci Resolve -->
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+  <img src="https://github.com/i5anin/i5anin/blob/main/ico/DaVinciResolve.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>
+</a>&nbsp
+<!-- Photoshop -->
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+</a>&nbsp
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</a>&nbsp
 </div>
 
 ---
