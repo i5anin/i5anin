@@ -10,7 +10,8 @@
 
 Начал решать задачки тут:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/)
+| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark) |
+| ----------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: |
 
 <!-- Работал с такими языками как: C++ Cи C# Python 1C. -->
 
@@ -251,3 +252,19 @@
         </td>
     </tr>
 </table>
+
+<!-- ### Github Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i5anin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true" />
+</picture> -->
