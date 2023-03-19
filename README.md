@@ -68,6 +68,11 @@
   <img 
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </a>&nbsp
+<!-- OPENAI -->
+<a href="openai.com" target="_blank">
+  <img 
+  src="./ico/openai.svg" title="openai" alt="openai" width="40" height="40"/>
+</a>&nbsp
 <!-- Git -->
 <a href="https://git-scm.com/docs" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
