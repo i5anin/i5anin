@@ -8,8 +8,7 @@
 
 Начал решать задачки тут:
 
-| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark) |
-| ----------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: |
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/) 
 
 <!-- Работал с такими языками как: C++ Cи C# Python 1C. -->
 
@@ -255,6 +254,8 @@
         </td>
     </tr>
 </table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark)
 
 <!-- ### Github Streaks
 
