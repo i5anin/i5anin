@@ -1,7 +1,5 @@
 ## Привет, меня зовут Сергей!
 
----
-
 ### :man_technologist: Обо мне:
 
 Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
