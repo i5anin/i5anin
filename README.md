@@ -68,7 +68,7 @@
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </a>&nbsp
 <!-- OPENAI -->
-<a href="openai.com" target="_blank">
+<a href="https://chat.openai.com/chat/" target="_blank">
   <img 
   src="./ico/openai.svg" title="openai" alt="openai" width="40" height="40"/>
 </a>&nbsp
