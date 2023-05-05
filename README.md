@@ -2,6 +2,8 @@
 
 ### :man_technologist: О себе:
 
+[![Сайт портфолио](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white](https://i5anin.vercel.app/)(в разработке)
+
 Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
 
 Мой путь в it начался ещё со школы и академии, работал в it сфере, укрепил свои знания курсами по Vue.js от Skillbox, где я проходил 7-месяцев курсы.
