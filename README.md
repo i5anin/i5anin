@@ -2,7 +2,7 @@
 
 ### :man_technologist: О себе:
 
-[Сайт портфолио](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white](https://i5anin.vercel.app/)(в разработке)
+[Сайт портфолио](https://i5anin.vercel.app/ "В разработке")
 
 Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
 
