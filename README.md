@@ -255,7 +255,8 @@
           </td> 
         <td>
             <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-            <p>Vue 3 Первый проект</p>
+            <p>Первый проект</p>
+            <p>Vue 3 +  Firebase</p>
         </td>
     </tr>
 </table>
