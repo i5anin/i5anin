@@ -2,7 +2,7 @@
 
 ### :man_technologist: О себе:
 
-### [Сайт портфолио](https://i5anin.vercel.app/ "В разработке")
+### [Сайт портфолио](https://i5anin.vercel.app/ 'В разработке')
 
 Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
 
@@ -10,7 +10,7 @@
 
 Начал решать задачки тут:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/) 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/)
 
 <!-- Работал с такими языками как: C++ Cи C# Python 1C. -->
 
@@ -157,6 +157,7 @@
             <p>Vue 3</p>
             <p>Полноценная версия магазина</p>
             <p>Финальный проект Skillbox</p>
+            <p>Просмотр демо-версии</p>
         </td>
     </tr>
         <!-- -- Coin банк -- -->
@@ -178,13 +179,14 @@
     <!-- -- CRM -- -->
     <tr>
         <td width='320px'>
-            <a href='#' title='Просмотр демо-версии '>
+            <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии '>
               <img src='img/skb-crm.gif' width='300px'>
             </a>
           </td> 
         <td>
             <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
             <p>Vue 3</p>
+            <p>Просмотр демо-версии</p>
         </td>
     </tr>
     <!-- -- Technozavrrr -- -->
@@ -200,6 +202,7 @@
             </h3>
             <p>Vue 2</p>
             <p>Простая версия магазина</p>
+            <p>Просмотр демо-версии</p>
         </td>
     </tr>
     <!-- -- SitDownPls -- -->
@@ -246,12 +249,12 @@
     <!-- -- ToDoList -- -->
     <tr>
         <td width='320px'>
-            <a href='https://todolist-betaio-quantum-x.vercel.app/' title='Просмотр демо-версии'>
+            <a href='#' title='Просмотр демо-версии'>
               <img src='img/todo-list.png' width='300px'>
             </a>
           </td> 
         <td>
-            <h3><a href='#' title='Открыть репозиторий'>ToDoList</a></h3>
+            <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
             <p>Vue 3 Первый проект</p>
         </td>
     </tr>
