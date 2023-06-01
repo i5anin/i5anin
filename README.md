@@ -8,9 +8,6 @@
 
 Мой путь в it начался ещё со школы и академии, работал в it сфере, укрепил свои знания курсами по Vue.js от Skillbox, где я проходил 7-месяцев курсы.
 
-Начал решать задачки тут:
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/)
 
 <!-- Работал с такими языками как: C++ Cи C# Python 1C. -->
 
@@ -275,6 +272,9 @@
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark)
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/)
 
 <!-- ### Github Streaks
 
