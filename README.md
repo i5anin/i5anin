@@ -184,7 +184,7 @@
             </a>
           </td> 
         <td>
-            <h3><b href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</b></h3>
+            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
             <p>Vue 3</p>
             <p>Просмотр демо-версии</p>
         </td>
@@ -197,7 +197,7 @@
             </a>
           </td> 
         <td>
-            <h3><b href='https://order-btc-vue3.vercel.app/' title='Открыть репозиторий'>Биржевой стакан</b></h3>
+            <h3><a href='https://order-btc-vue3.vercel.app/' title='Открыть репозиторий'>Биржевой стакан</a></h3>
             <p>Vue 3</p>
             <p>Просмотр демо-версии</p>
         </td>
