@@ -184,7 +184,20 @@
             </a>
           </td> 
         <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
+            <h3><b href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</b></h3>
+            <p>Vue 3</p>
+            <p>Просмотр демо-версии</p>
+        </td>
+    </tr>
+        <!-- -- order book -- -->
+    <tr>
+        <td width='320px'>
+            <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии '>
+              <img src='img/orderbook.png' width='300px'>
+            </a>
+          </td> 
+        <td>
+            <h3><b href='https://order-btc-vue3.vercel.app/' title='Открыть репозиторий'>Биржевой стакан</b></h3>
             <p>Vue 3</p>
             <p>Просмотр демо-версии</p>
         </td>
