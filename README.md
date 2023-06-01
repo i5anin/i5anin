@@ -1,293 +1,200 @@
+
 ## Привет, меня зовут Сергей!
 
-### :man_technologist: О себе:
+##### О себе:
 
-### [Сайт портфолио](https://i5anin.vercel.app/ 'В разработке')
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px">. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы.
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px">.
+##### Цели и задачи:
 
-Мой путь в it начался ещё со школы и академии, работал в it сфере, укрепил свои знания курсами по Vue.js от Skillbox, где я проходил 7-месяцев курсы.
+- ⚡️ Ищу интересную работу.
+- 🔎 Изучаю веб-разработку и ищу современные решения!
+- ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-
-<!-- Работал с такими языками как: C++ Cи C# Python 1C. -->
-
-Цели и задачи:
-
-- :telescope: Изучаю веб-разработку ищу современные решения!
-
-- :seedling: Обязательно сделаю собственный курс.
-
-- :zap: Хочу освоить новую профессию и найти работу.
-
-- :mailbox: Как связаться со мной:
-  [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-     <a href="https://www.youtube.com/c/SergeyIsanin" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a> 
-    <a href="https://t.me/i5anin" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/i5anin" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-     <a href="https://rutube.ru/channel/25044728/" target="_blank">
-      <img src="https://github.com/i5anin/i5anin/blob/main/ico/rutube.png" width="40" height="40" alt="RuTube Badge"/>
-    </a> 
-     <a href="https://www.tiktok.com/@sergey.isanin" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670132.png" width="40" height="40" alt="TikTok Badge"/>
-    </a>
-
-  </div>
-
----
-
-### 💻 Технологии:
-
-<div>
-<!-- vue -->
-<a href="https://vuejs.org/guide/introduction.html" target="_blank">
-  <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
-</a>&nbsp
-<!-- Nuxt.js -->
-<a href="https://nuxtjs.org/" target="_blank">
-  <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>
-</a>&nbsp
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference" target="_blank">
-  <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-</a>&nbsp
-<!-- OPENAI -->
-<a href="https://chat.openai.com/chat/" target="_blank">
-  <img 
-  src="./ico/openai.svg" title="openai" alt="openai" width="40" height="40"/>
-</a>&nbsp
-<!-- Git -->
-<a href="https://git-scm.com/docs" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
-</a>&nbsp
-<!-- HTML 5 -->
-<a href="https://www.w3schools.com/html/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>
-</a>&nbsp
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-</a>&nbsp
-<!-- Firebase -->
-<a href="https://firebase.google.com/docs/database/web/read-and-write" target="_blank">
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-</a>&nbsp
-<!-- github -->
-<a href="https://github.com/i5anin" target="_blank">
-  <img src="https://github.com/i5anin/i5anin/blob/main/ico/github.svg" title="github" alt="github" width="40" height="40"/>
-</a>&nbsp
-<!-- gitlab -->
-<a href="https://gitlab.com/sergey.isanin" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
-</a>&nbsp
-<!-- sass -->
-<a href="https://sass-lang.com/documentation/syntax" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
-</a>&nbsp
-
+#### Фреймворки
+<div style="display: flex; flex-wrap: wrap;">
+<a href='https://vuejs.org/guide/introduction.html' title='Vue.js'>
+       <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'>
+       </a><a href='https://nuxtjs.org/' title='Nuxt.js'>
+       <img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'>
+       </a><a href='https://element-plus.org/en-US/guide/quickstart.html' title='element-plus'>
+       <img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
+       </a>
 </div>
 
----
-
-### 🛠 Инструменты:
-
-<div>
-<!-- DaVinci Resolve -->
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
-  <img src="https://github.com/i5anin/i5anin/blob/main/ico/DaVinciResolve.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>
-</a>&nbsp
-<!-- Photoshop -->
-<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-</a>&nbsp
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-</a>&nbsp
+#### Технологии
+<div style="display: flex; flex-wrap: wrap;">
+<a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>
+       <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'>
+       </a><a href='https://www.w3schools.com/html/' title='HTML 5'>
+       <img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'>
+       </a><a href='https://www.w3schools.com/css/' title='CSS'>
+       <img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'>
+       </a><a href='https://firebase.google.com/docs/database/web/read-and-write' title='Firebase'>
+       <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
+       </a><a href='https://sass-lang.com/documentation/syntax' title='Sass'>
+       <img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
+       </a>
 </div>
 
----
+#### Инструменты
+<div style="display: flex; flex-wrap: wrap;">
+<a href='https://git-scm.com/docs' title='Git'>
+       <img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'>
+       </a><a href='https://github.com/i5anin' title='GitHub'>
+       <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'>
+       </a><a href='https://gitlab.com/sergey.isanin' title='GitLab'>
+       <img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'>
+       </a><a href='https://chat.openai.com/chat/' title='OpenAI'>
+       <img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
+       </a>
+</div>
 
-### 💻 Пройденные курсы:
-
-| Сайт             |                               Курс                               |       Дата        |
-| ---------------- | :--------------------------------------------------------------: | :---------------: |
-| skillbox.ru      | Программа профессиональной переподготовки «Frontend-разработчик» | 08.2022 - 03.2023 |
-| stepik.org       |                Web-технологии: начальный уровень                 | 07/2022 - 08/2022 |
-| stepik.org       |            Веб-разработка для начинающих: HTML и CSS             | 07/2022 - 08/2022 |
-| stepik.org       |                    JavaScript для начинающих                     | 07/2022 - 08/2022 |
-| practicum.yandex |                     Факультет Веб разработки                     | 07/2022 - 08/2022 |
-
----
-
-### 💻 Публичное портфолио
-
+#### Мои проекты
 <table>
-    <!-- -- Магазин Moire -- -->
-    <tr>
-         <td width='320px'>
-                    <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
-                        <img src='./img/moire.png' width='300px'>
-                    </a>
-                </td> 
-        <td>
-            <h3>
-                <a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>
-                    Магазин нижнего белья Moire
+<tr>
+            <td width='320px'>
+                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
+                    <img src='./public/projects/moire.png' width='300px'>
                 </a>
-            </h3>
-            <p>Vue 3</p>
-            <p>Полноценная версия магазина</p>
-            <p>Финальный проект Skillbox</p>
-            <p>Просмотр демо-версии</p>
-        </td>
-    </tr>
-        <!-- -- Coin банк -- -->
-    <tr>
-        <td width='320px'>
-            <a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Просмотр демо-версии'>
-              <img src='img/coin.gif' width='300px'>
-            </a>
-          </td>
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>
-                    Coin банк BTC
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
+                <p>
+Полноценная версия
+Финальный проект Skillbox</p>
+                <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/coin.gif' width='300px'>
                 </a>
-            </h3>
-            <p>JavaScript</p>
-            <p>Перевод средств между счетами</p>
-        </td>
-    </tr>
-    <!-- -- CRM -- -->
-    <tr>
-        <td width='320px'>
-            <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии '>
-              <img src='img/skb-crm.gif' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
-            <p>Vue 3</p>
-            <p>Просмотр демо-версии</p>
-        </td>
-    </tr>
-        <!-- -- order book -- -->
-    <tr>
-        <td width='320px'>
-            <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии '>
-              <img src='img/orderbook.png' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://order-btc-vue3.vercel.app/' title='Открыть репозиторий'>Биржевой стакан</a></h3>
-            <p>Vue 3</p>
-            <p>Просмотр демо-версии</p>
-        </td>
-    </tr>
-    <!-- -- Technozavrrr -- -->
-    <tr>
-         <td width='320px'>
-            <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии'>
-              <img src='img/tehozavrrr.png' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/vue/-/tree/main/08_api_2' title='Открыть репозиторий'>Магазин
-                    электроники Technozavrrr</a>
-            </h3>
-            <p>Vue 2</p>
-            <p>Простая версия магазина</p>
-            <p>Просмотр демо-версии</p>
-        </td>
-    </tr>
-    <!-- -- SitDownPls -- -->
-    <tr>
-        <td width='320px'>
-            <a href='#' title='Просмотр демо-версии'>
-              <img src='img/stdpls.gif' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/final_weblayout_pro'
-                    title='Открыть репозиторий'>SitDownPls</a></h3>
-            <p>Многостраничный лендинг</p>
-        </td>
-    </tr>
-    <!-- -- Evklid -- -->
-    <tr>
-        <td width='320px'>
-            <a href='#' title='Просмотр демо-версии'>
-              <img src='img/evklid.gif' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://gitlab.com/sergey.isanin/weblayout_pro/-/tree/main/04_optimization'
-                    title='Открыть репозиторий'>Evklid</a></h3>
-            <p>Одностраничный лендинг</p>
-        </td>
-    </tr>
-    <!-- -- Lagoona -- -->
-    <tr>
-        <td width='320px'>
-            <a href='#' title='Просмотр демо-версии'>
-              <img src='img/lagoona.gif' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3>
-                <a href='https://gitlab.com/sergey.isanin/weblayout/-/tree/main/10_advanced-css'
-                    title='Открыть репозиторий'>Lagoona</a>
-            </h3>
-            <p>Одностраничный лендинг</p>
-        </td>
-    </tr>
-    <!-- -- ToDoList -- -->
-    <tr>
-        <td width='320px'>
-            <a href='#' title='Просмотр демо-версии'>
-              <img src='img/todo-list.png' width='300px'>
-            </a>
-          </td> 
-        <td>
-            <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-            <p>Первый проект</p>
-            <p>Vue 3 +  Firebase</p>
-        </td>
-    </tr>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
+                <p>JavaScript
+Перевод средств между счетами</p>
+                <p>JavaScript</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии'>
+                    <img src='./public/projects/skb-crm.gif' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/final_vue' title='Открыть репозиторий'>CRM</a></h3>
+                <p>backend проснётся в течение 1 мин</p>
+                <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии'>
+                    <img src='./public/projects/orderbook.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
+                <p></p>
+                <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии'>
+                    <img src='./public/projects/tehozavrrr.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/vue/-/tree/main/08_api_2' title='Открыть репозиторий'>Магазин электроники Technozavrrr</a></h3>
+                <p>Простая версия магазина</p>
+                <p>Vue 2</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/stdpls.gif' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/final_weblayout_pro' title='Открыть репозиторий'>SitDownPls</a></h3>
+                <p>Многостраничный лендинг</p>
+                <p>HTML, CSS, JavaScript,</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/evklid.gif' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/weblayout_pro/-/tree/main/04_optimization' title='Открыть репозиторий'>Evklid</a></h3>
+                <p>Одностраничный лендинг</p>
+                <p>HTML, CSS, JavaScript,</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/lagoona.gif' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/weblayout/-/tree/main/10_advanced-css' title='Открыть репозиторий'>Lagoona</a></h3>
+                <p>Одностраничный лендинг</p>
+                <p>HTML, CSS, JavaScript,</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/todo-list.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
+                <p>Первый проект</p>
+                <p>Vue 3, Firebase</p>
+            </td>
+        </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark)
+#### Пройденные курсы
 
+<table>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark)](https://leetcode.com/i5anin/)
+<tr>
+<th>Сайт</th>
+<th>Курс</th>
+<th>Дата</th>
+</tr>
+<tr>
+<td>skillbox.ru</td>
+<td>Программа профессиональной переподготовки «Frontend-разработчик»</td>
+<td>08.2022 - 03.2023</td>
+</tr><tr>
+<td>stepik.org</td>
+<td>Web-технологии: начальный уровень</td>
+<td>07/2022 - 08/2022</td>
+</tr><tr>
+<td>stepik.org</td>
+<td>Веб-разработка для начинающих: HTML и CSS</td>
+<td>07/2022 - 08/2022</td>
+</tr><tr>
+<td>stepik.org</td>
+<td>JavaScript для начинающих</td>
+<td>07/2022 - 08/2022</td>
+</tr><tr>
+<td>practicum.yandex</td>
+<td>Факультет Веб разработки</td>
+<td>07/2022 - 08/2022</td>
+</tr>
+</table>
 
-<!-- ### Github Streaks
+#### Статистика
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark" alt="Top Langs" width="300">
+    <a href="https://leetcode.com/i5anin/" target="_blank">
+        <img src="https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark" alt="KnlnKS's LeetCode stats" width="350">
+    </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i5anin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=i5anin&show_icons=true" />
-</picture> -->
+###### код для `markdown` сгенерирован на JavaScript `node main.js`
