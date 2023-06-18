@@ -199,4 +199,6 @@
     </a>
 </div>
 
+<img src="https://wakatime.com/share/@PizZzA/c118a921-143e-421a-bd92-dcf6608f3b12.svg" width="655"><img src="https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg" width="655">
+
 ###### код для `markdown` сгенерирован на JavaScript `node main.js`
