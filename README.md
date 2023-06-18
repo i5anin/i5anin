@@ -26,6 +26,8 @@
 <div style="display: flex; flex-wrap: wrap;">
 <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>
        <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'>
+       </a><a href='' title='TypeScript'>
+       <img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'>
        </a><a href='https://www.w3schools.com/html/' title='HTML 5'>
        <img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'>
        </a><a href='https://www.w3schools.com/css/' title='CSS'>

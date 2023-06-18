@@ -46,6 +46,11 @@ const tech = [
     icon: './public/ico/javascript-original.svg',
   },
   {
+    name: 'TypeScript',
+    link: '',
+    icon: './public/ico/typescript-original.svg',
+  },
+  {
     name: 'HTML 5',
     link: 'https://www.w3schools.com/html/',
     icon: './public/ico/html5-original.svg',
