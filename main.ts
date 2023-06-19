@@ -1,10 +1,46 @@
+import { MarkdownIt } from 'markdown-it'
+import { readFileSync, writeFileSync } from 'fs'
+
+interface Project {
+  demo_link: string
+  image_src: string
+  repository_link: string
+  title: string
+  description: string
+  technologies: string
+}
+
+interface Technology {
+  link: string
+  name: string
+  icon: string
+}
+
+interface Tool {
+  link: string
+  name: string
+  icon: string
+}
+
+interface Framework {
+  link: string
+  name: string
+  icon: string
+}
+
+interface Course {
+  Сайт: string
+  Курс: string
+  Дата: string
+}
+
 const { frameworks, tools, tech } = require('./src/javascript/knowledge.js')
 const { coursesList } = require('./src/javascript/courses.js')
-const projects = require('./src/javascript/projects.js')
+const projects: Project[] = require('./src/javascript/projects.js')
 
-const fs = require('fs')
+const markdown = new MarkdownIt()
 
-function generateMarkdownFile() {
+function generateMarkdownFile(): void {
   let projectsTable = ''
   for (const project of projects) {
     const projectRow = `
@@ -122,20 +158,16 @@ ${coursesTable}
 
 <img src="https://wakatime.com/share/@PizZzA/c118a921-143e-421a-bd92-dcf6608f3b12.svg" width="655">\
 <img src="https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg" width="655">\
-
-
-###### код для \`markdown\` сгенерирован на JavaScript \`node main.js\`
 `
 
   const generatedMarkdownContent = markdownContent
     .replace('${projectsTable}', projectsTable)
     .replace('${coursesTable}', coursesTable)
-
     .replace('${techIcons}', techIcons)
     .replace('${toolsIcons}', toolsIcons)
     .replace('${frameworksIcons}', frameworksIcons)
 
-  fs.writeFileSync('README.md', generatedMarkdownContent, 'utf-8')
+  writeFileSync('README.md', generatedMarkdownContent, 'utf-8')
 }
 
 generateMarkdownFile()
