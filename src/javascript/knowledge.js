@@ -16,29 +16,6 @@ const frameworks = [
   },
 ]
 
-const tools = [
-  {
-    name: 'Git',
-    link: 'https://git-scm.com/docs',
-    icon: './public/ico/git-original.svg',
-  },
-  {
-    name: 'GitHub',
-    link: 'https://github.com/i5anin',
-    icon: './public/ico/github.svg',
-  },
-  {
-    name: 'GitLab',
-    link: 'https://gitlab.com/sergey.isanin',
-    icon: './public/ico/gitlab-original.svg',
-  },
-  {
-    name: 'OpenAI',
-    link: 'https://chat.openai.com/chat/',
-    icon: './public/ico/openai.svg',
-  },
-]
-
 const tech = [
   {
     name: 'JavaScript',
@@ -71,4 +48,32 @@ const tech = [
     icon: './public/ico/sass-original.svg',
   },
 ]
-module.exports = { frameworks, tools, tech }
+
+const tools = [
+  {
+    name: 'Figma',
+    link: 'https://www.figma.com',
+    icon: './public/ico/figma-original.svg',
+  },
+  {
+    name: 'Git',
+    link: 'https://git-scm.com/docs',
+    icon: './public/ico/git-original.svg',
+  },
+  {
+    name: 'GitHub',
+    link: 'https://github.com/i5anin',
+    icon: './public/ico/github.svg',
+  },
+  {
+    name: 'GitLab',
+    link: 'https://gitlab.com/sergey.isanin',
+    icon: './public/ico/gitlab-original.svg',
+  },
+  {
+    name: 'OpenAI',
+    link: 'https://chat.openai.com/chat/',
+    icon: './public/ico/openai.svg',
+  },
+]
+module.exports = { frameworks, tech, tools }

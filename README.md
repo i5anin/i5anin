@@ -41,7 +41,9 @@
 
 #### Инструменты
 <div style="display: flex; flex-wrap: wrap;">
-<a href='https://git-scm.com/docs' title='Git'>
+<a href='https://www.figma.com' title='Figma'>
+       <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'>
+       </a><a href='https://git-scm.com/docs' title='Git'>
        <img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'>
        </a><a href='https://github.com/i5anin' title='GitHub'>
        <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'>
