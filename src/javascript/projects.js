@@ -26,6 +26,14 @@ const projects = [
     technologies: `Vue 3`,
   },
   {
+    image_src: `./public/projects/inventory.png`,
+    demo_link: `#`,
+    repository_link: `${githubURL}/self-contained-inventory`,
+    title: `Инвентарь`,
+    description: ``,
+    technologies: `Vue 3`,
+  },
+  {
     image_src: `./public/projects/orderbook.png`,
     demo_link: `https://order-btc-vue3.vercel.app/`,
     repository_link: `${githubURL}/Order-Book-Vue3`,

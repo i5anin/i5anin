@@ -94,6 +94,17 @@
             </td>
         </tr><tr>
             <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/inventory.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://github.com/i5anin/self-contained-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
+                <p></p>
+                <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
                 <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии'>
                     <img src='./public/projects/orderbook.png' width='300px'>
                 </a>
