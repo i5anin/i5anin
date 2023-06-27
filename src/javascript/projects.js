@@ -27,8 +27,8 @@ const projects = [
   },
   {
     image_src: `./public/projects/inventory.png`,
-    demo_link: `#`,
-    repository_link: `${githubURL}/self-contained-inventory`,
+    demo_link: `https://drag-and-drop-inventory.vercel.app/`,
+    repository_link: `${githubURL}/drag-and-drop-inventory`,
     title: `Инвентарь`,
     description: ``,
     technologies: `Vue 3`,

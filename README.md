@@ -94,12 +94,12 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
+                <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии'>
                     <img src='./public/projects/inventory.png' width='300px'>
                 </a>
             </td> 
             <td>
-                <h3><a href='https://github.com/i5anin/self-contained-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
+                <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
                 <p></p>
                 <p>Vue 3</p>
             </td>
