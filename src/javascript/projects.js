@@ -20,7 +20,7 @@ const projects = [
   {
     image_src: `./public/projects/skb-crm.gif`,
     demo_link: `https://final-vue-crm.vercel.app/`,
-    repository_link: `${gitlabURL}/final_vue`,
+    repository_link: `${gitlabURL}/crm_final_vue`,
     title: `CRM`,
     description: `backend проснётся в течение 1 мин`,
     technologies: `Vue 3`,
