@@ -10,6 +10,11 @@ const frameworks = [
     icon: './public/ico/nuxtjs.svg',
   },
   {
+    name: 'vuetify',
+    link: 'https://vuetifyjs.com/en/',
+    icon: './public/ico/vuetify.svg',
+  },
+  {
     name: 'element-plus',
     link: 'https://element-plus.org/en-US/guide/quickstart.html',
     icon: './public/ico/element-plus.svg',

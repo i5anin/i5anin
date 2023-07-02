@@ -17,6 +17,8 @@
        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'>
        </a><a href='https://nuxtjs.org/' title='Nuxt.js'>
        <img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'>
+       </a><a href='https://vuetifyjs.com/en/' title='vuetify'>
+       <img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'>
        </a><a href='https://element-plus.org/en-US/guide/quickstart.html' title='element-plus'>
        <img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
        </a>
