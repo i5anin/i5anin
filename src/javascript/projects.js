@@ -6,7 +6,7 @@ const projects = [
     demo_link: `https://final-vue-crm.vercel.app/`,
     repository_link: `${gitlabURL}/crm_final_vue`,
     title: `CRM`,
-    description: `backend проснётся в течение 1 мин`,
+    description: `переписываю под Vuetify в соседней ветке`,
     technologies: `Vue 3`,
   },
   {

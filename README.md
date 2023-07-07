@@ -66,7 +66,7 @@
             </td> 
             <td>
                 <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
-                <p>backend проснётся в течение 1 мин</p>
+                <p>переписываю под Vuetify в соседней ветке</p>
                 <p>Vue 3</p>
             </td>
         </tr><tr>
