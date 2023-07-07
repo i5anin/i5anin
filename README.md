@@ -60,31 +60,6 @@
 <table>
 <tr>
             <td width='320px'>
-                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
-                    <img src='./public/projects/moire.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
-                <p>
-Полноценная версия
-Финальный проект Skillbox</p>
-                <p>Vue 3</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/coin.gif' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
-                <p>JavaScript
-Перевод средств между счетами</p>
-                <p>JavaScript</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
                 <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии'>
                     <img src='./public/projects/skb-crm.gif' width='300px'>
                 </a>
@@ -115,6 +90,31 @@
                 <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
                 <p></p>
                 <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
+                    <img src='./public/projects/moire.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
+                <p>
+Полноценная версия
+Финальный проект Skillbox</p>
+                <p>Vue 3</p>
+            </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='#' title='Просмотр демо-версии'>
+                    <img src='./public/projects/coin.gif' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
+                <p>JavaScript
+Перевод средств между счетами</p>
+                <p>JavaScript</p>
             </td>
         </tr><tr>
             <td width='320px'>

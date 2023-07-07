@@ -2,22 +2,6 @@ const { gitlabURL, githubURL } = require(`./url.js`)
 
 const projects = [
   {
-    image_src: `./public/projects/moire.png`,
-    demo_link: `https://exam-vue.vercel.app`,
-    repository_link: `${gitlabURL}/exam_vue`,
-    title: `Магазин нижнего белья Moire`,
-    description: `\nПолноценная версия\nФинальный проект Skillbox`,
-    technologies: `Vue 3`,
-  },
-  {
-    image_src: `./public/projects/coin.gif`,
-    demo_link: `#`,
-    repository_link: `${gitlabURL}/final_javascript_pro`,
-    title: `Coin банк BTC`,
-    description: `JavaScript\nПеревод средств между счетами`,
-    technologies: `JavaScript`,
-  },
-  {
     image_src: `./public/projects/skb-crm.gif`,
     demo_link: `https://final-vue-crm.vercel.app/`,
     repository_link: `${gitlabURL}/crm_final_vue`,
@@ -40,6 +24,22 @@ const projects = [
     title: `Биржевой стакан`,
     description: ``,
     technologies: `Vue 3`,
+  },
+  {
+    image_src: `./public/projects/moire.png`,
+    demo_link: `https://exam-vue.vercel.app`,
+    repository_link: `${gitlabURL}/exam_vue`,
+    title: `Магазин нижнего белья Moire`,
+    description: `\nПолноценная версия\nФинальный проект Skillbox`,
+    technologies: `Vue 3`,
+  },
+  {
+    image_src: `./public/projects/coin.gif`,
+    demo_link: `#`,
+    repository_link: `${gitlabURL}/final_javascript_pro`,
+    title: `Coin банк BTC`,
+    description: `JavaScript\nПеревод средств между счетами`,
+    technologies: `JavaScript`,
   },
   {
     image_src: `./public/projects/tehozavrrr.png`,
