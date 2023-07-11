@@ -61,7 +61,7 @@
 <tr>
             <td width='320px'>
                 <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии'>
-                    <img src='./public/projects/skb-crm.gif' width='300px'>
+                    <img src='./public/projects/crm.png' width='300px'>
                 </a>
             </td> 
             <td>

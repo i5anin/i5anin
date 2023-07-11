@@ -2,7 +2,7 @@ const { gitlabURL, githubURL } = require(`./url.js`)
 
 const projects = [
   {
-    image_src: `./public/projects/skb-crm.gif`,
+    image_src: `./public/projects/crm.png`,
     demo_link: `https://final-vue-crm.vercel.app/`,
     repository_link: `${gitlabURL}/crm_final_vue`,
     title: `CRM`,
