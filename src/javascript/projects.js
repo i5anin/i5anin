@@ -81,6 +81,14 @@ const projects = [
     description: `Первый проект`,
     technologies: `Vue 3, Firebase`,
   },
+  {
+    image_src: `./public/projects/gym.png`,
+    demo_link: `https://my-gym-training.vercel.app/`,
+    repository_link: `${githubURL}/vue-gym-training`,
+    title: `gym-training`,
+    description: `my gym`,
+    technologies: `Vue 3`,
+  },
 ]
 
 module.exports = projects

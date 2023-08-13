@@ -171,6 +171,17 @@
                 <p>Первый проект</p>
                 <p>Vue 3, Firebase</p>
             </td>
+        </tr><tr>
+            <td width='320px'>
+                <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии'>
+                    <img src='./public/projects/gym.png' width='300px'>
+                </a>
+            </td> 
+            <td>
+                <h3><a href='https://github.com/i5anin/vue-gym-training' title='Открыть репозиторий'>gym-training</a></h3>
+                <p>my gym</p>
+                <p>Vue 3</p>
+            </td>
         </tr>
 </table>
 
