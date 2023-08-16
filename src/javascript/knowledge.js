@@ -52,6 +52,11 @@ const tech = [
     link: 'https://sass-lang.com/documentation/syntax',
     icon: './public/ico/sass-original.svg',
   },
+  {
+    name: 'php',
+    link: 'https://www.php.net/',
+    icon: './public/ico/php.svg',
+  },
 ]
 
 const tools = [
@@ -79,6 +84,11 @@ const tools = [
     name: 'OpenAI',
     link: 'https://chat.openai.com/chat/',
     icon: './public/ico/openai.svg',
+  },
+  {
+    name: 'MySql',
+    link: 'https://www.mysql.com/',
+    icon: './public/ico/mysql.svg',
   },
 ]
 module.exports = { frameworks, tech, tools }

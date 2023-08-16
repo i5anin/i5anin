@@ -38,6 +38,8 @@
        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
        </a><a href='https://sass-lang.com/documentation/syntax' title='Sass'>
        <img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
+       </a><a href='https://www.php.net/' title='php'>
+       <img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
        </a>
 </div>
 
@@ -53,6 +55,8 @@
        <img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'>
        </a><a href='https://chat.openai.com/chat/' title='OpenAI'>
        <img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
+       </a><a href='https://www.mysql.com/' title='MySql'>
+       <img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'>
        </a>
 </div>
 
