@@ -3,7 +3,7 @@
 
 ##### О себе:
 
-Я фронтенд и бэкэнд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px">. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы.
+Я фронтенд и бэкэнд разработчик<img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы.
 
 ##### Цели и задачи:
 
@@ -12,20 +12,20 @@
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
 #### Фреймворки
-<div style="display: flex; flex-wrap: wrap;">
-<a href='https://vuejs.org/guide/introduction.html' title='Vue.js'>
+<div style='display: flex; flex-wrap: wrap;'>
+<!--       <a href='https://vuejs.org/guide/introduction.html' title='Vue.js'>-->
        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'>
-       </a><a href='https://nuxtjs.org/' title='Nuxt.js'>
+<!--       </a>--><!--       <a href='https://nuxtjs.org/' title='Nuxt.js'>-->
        <img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'>
-       </a><a href='https://vuetifyjs.com/en/' title='vuetify'>
+<!--       </a>--><!--       <a href='https://vuetifyjs.com/en/' title='vuetify'>-->
        <img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'>
-       </a><a href='https://element-plus.org/en-US/guide/quickstart.html' title='element-plus'>
+<!--       </a>--><!--       <a href='https://element-plus.org/en-US/guide/quickstart.html' title='element-plus'>-->
        <img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
-       </a>
+<!--       </a>-->
 </div>
 
 #### Технологии
-<div style="display: flex; flex-wrap: wrap;">
+<div style='display: flex; flex-wrap: wrap;'>
 <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>
        <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'>
        </a><a href='' title='TypeScript'>
@@ -48,7 +48,7 @@
 </div>
 
 #### Инструменты
-<div style="display: flex; flex-wrap: wrap;">
+<div style='display: flex; flex-wrap: wrap;'>
 <a href='https://www.figma.com' title='Figma'>
        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'>
        </a><a href='https://git-scm.com/docs' title='Git'>
@@ -228,13 +228,13 @@
 </table>
 
 #### Статистика
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark" alt="Top Langs" width="300">
-    <a href="https://leetcode.com/i5anin/" target="_blank">
-        <img src="https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark" alt="KnlnKS's LeetCode stats" width="350">
+<div style='display: flex; flex-direction: row;'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>
+    <a href='https://leetcode.com/i5anin/' target='_blank'>
+        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>
     </a>
 </div>
 
-<img src="https://wakatime.com/share/@PizZzA/c118a921-143e-421a-bd92-dcf6608f3b12.svg" width="655"><img src="https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg" width="655">
+<img src='https://wakatime.com/share/@PizZzA/c118a921-143e-421a-bd92-dcf6608f3b12.svg' width='655'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>
 
 ###### код для `markdown` сгенерирован на JavaScript `node main.js`
