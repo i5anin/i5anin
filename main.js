@@ -11,7 +11,7 @@ function generateMarkdownFile() {
         <tr>
             <td width='320px'>
                 <a href='${project.demo_link}' title='Просмотр демо-версии ${project.title}'>
-                    <img src='${project.image_src}' width='300px' alt='IMG ${project.title}'>
+                    <img src='${project.image_src}' width='300px''>
                 </a>
             </td> 
             <td>
@@ -78,7 +78,7 @@ function generateMarkdownFile() {
 
 ##### О себе:
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px">. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы.
+Я фронтенд и бэкэнд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px">. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы.
 
 ##### Цели и задачи:
 

@@ -40,6 +40,10 @@
        <img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
        </a><a href='https://www.php.net/' title='php'>
        <img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
+       </a><a href='https://www.mysql.com/' title='MySql'>
+       <img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'>
+       </a><a href='https://www.enterprisedb.com/downloads/postgres-postgresql-downloads' title='PostgreSQL'>
+       <img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
        </a>
 </div>
 
@@ -55,8 +59,6 @@
        <img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'>
        </a><a href='https://chat.openai.com/chat/' title='OpenAI'>
        <img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
-       </a><a href='https://www.mysql.com/' title='MySql'>
-       <img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'>
        </a>
 </div>
 
@@ -65,7 +67,7 @@
 <tr>
             <td width='320px'>
                 <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
-                    <img src='./public/projects/crm.png' width='300px' alt='IMG CRM'>
+                    <img src='./public/projects/crm.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -76,7 +78,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
-                    <img src='./public/projects/inventory.png' width='300px' alt='IMG Инвентарь'>
+                    <img src='./public/projects/inventory.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -87,7 +89,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
-                    <img src='./public/projects/orderbook.png' width='300px' alt='IMG Биржевой стакан'>
+                    <img src='./public/projects/orderbook.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -98,7 +100,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
-                    <img src='./public/projects/moire.png' width='300px' alt='IMG Магазин нижнего белья Moire'>
+                    <img src='./public/projects/moire.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -111,7 +113,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии Coin банк BTC'>
-                    <img src='./public/projects/coin.gif' width='300px' alt='IMG Coin банк BTC'>
+                    <img src='./public/projects/coin.gif' width='300px''>
                 </a>
             </td> 
             <td>
@@ -123,7 +125,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии Магазин электроники Technozavrrr'>
-                    <img src='./public/projects/tehozavrrr.png' width='300px' alt='IMG Магазин электроники Technozavrrr'>
+                    <img src='./public/projects/tehozavrrr.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -134,7 +136,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии SitDownPls'>
-                    <img src='./public/projects/stdpls.gif' width='300px' alt='IMG SitDownPls'>
+                    <img src='./public/projects/stdpls.gif' width='300px''>
                 </a>
             </td> 
             <td>
@@ -145,7 +147,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии Evklid'>
-                    <img src='./public/projects/evklid.gif' width='300px' alt='IMG Evklid'>
+                    <img src='./public/projects/evklid.gif' width='300px''>
                 </a>
             </td> 
             <td>
@@ -156,7 +158,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии Lagoona'>
-                    <img src='./public/projects/lagoona.gif' width='300px' alt='IMG Lagoona'>
+                    <img src='./public/projects/lagoona.gif' width='300px''>
                 </a>
             </td> 
             <td>
@@ -167,7 +169,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии ToDoList'>
-                    <img src='./public/projects/todo-list.png' width='300px' alt='IMG ToDoList'>
+                    <img src='./public/projects/todo-list.png' width='300px''>
                 </a>
             </td> 
             <td>
@@ -178,7 +180,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
-                    <img src='./public/projects/gym.png' width='300px' alt='IMG gym-training'>
+                    <img src='./public/projects/gym.png' width='300px''>
                 </a>
             </td> 
             <td>

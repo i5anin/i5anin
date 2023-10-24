@@ -59,6 +59,11 @@ const tech = [
     icon: './public/ico/php.svg',
   },
   {
+    name: 'MySql',
+    link: 'https://www.mysql.com/',
+    icon: './public/ico/mysql.svg',
+  },
+  {
     name: 'PostgreSQL',
     link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
     icon: './public/ico/postgresql.svg',
@@ -90,11 +95,6 @@ const tools = [
     name: 'OpenAI',
     link: 'https://chat.openai.com/chat/',
     icon: './public/ico/openai.svg',
-  },
-  {
-    name: 'MySql',
-    link: 'https://www.mysql.com/',
-    icon: './public/ico/mysql.svg',
   },
 ]
 module.exports = { frameworks, tech, tools }
