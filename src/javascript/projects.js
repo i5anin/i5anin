@@ -6,7 +6,7 @@ const projects = [
     demo_link: `https://final-vue-crm.vercel.app/`,
     repository_link: `${gitlabURL}/crm_final_vue`,
     title: `CRM`,
-    description: `переписываю под Vuetify в соседней ветке`,
+    description: `переписываю под Vuetify`,
     technologies: `Vue 3`,
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     repository_link: `${githubURL}/Order-Book-Vue3`,
     title: `Биржевой стакан`,
     description: ``,
-    technologies: `Vue 3`,
+    technologies: `Vue 3 UI Element Plus`,
   },
   {
     image_src: `./public/projects/moire.png`,
@@ -87,7 +87,7 @@ const projects = [
     repository_link: `${githubURL}/vue-gym-training`,
     title: `gym-training`,
     description: `my gym`,
-    technologies: `Vue 3`,
+    technologies: `Vue 3 Vuetify`,
   },
 ]
 

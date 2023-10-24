@@ -10,8 +10,8 @@ function generateMarkdownFile() {
     const projectRow = `
         <tr>
             <td width='320px'>
-                <a href='${project.demo_link}' title='Просмотр демо-версии'>
-                    <img src='${project.image_src}' width='300px'>
+                <a href='${project.demo_link}' title='Просмотр демо-версии ${project.title}'>
+                    <img src='${project.image_src}' width='300px' alt='IMG ${project.title}'>
                 </a>
             </td> 
             <td>

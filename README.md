@@ -64,19 +64,19 @@
 <table>
 <tr>
             <td width='320px'>
-                <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии'>
-                    <img src='./public/projects/crm.png' width='300px'>
+                <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
+                    <img src='./public/projects/crm.png' width='300px' alt='IMG CRM'>
                 </a>
             </td> 
             <td>
                 <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
-                <p>переписываю под Vuetify в соседней ветке</p>
+                <p>переписываю под Vuetify</p>
                 <p>Vue 3</p>
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии'>
-                    <img src='./public/projects/inventory.png' width='300px'>
+                <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
+                    <img src='./public/projects/inventory.png' width='300px' alt='IMG Инвентарь'>
                 </a>
             </td> 
             <td>
@@ -86,19 +86,19 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии'>
-                    <img src='./public/projects/orderbook.png' width='300px'>
+                <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
+                    <img src='./public/projects/orderbook.png' width='300px' alt='IMG Биржевой стакан'>
                 </a>
             </td> 
             <td>
                 <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
                 <p></p>
-                <p>Vue 3</p>
+                <p>Vue 3 UI Element Plus</p>
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии'>
-                    <img src='./public/projects/moire.png' width='300px'>
+                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
+                    <img src='./public/projects/moire.png' width='300px' alt='IMG Магазин нижнего белья Moire'>
                 </a>
             </td> 
             <td>
@@ -110,8 +110,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/coin.gif' width='300px'>
+                <a href='#' title='Просмотр демо-версии Coin банк BTC'>
+                    <img src='./public/projects/coin.gif' width='300px' alt='IMG Coin банк BTC'>
                 </a>
             </td> 
             <td>
@@ -122,8 +122,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии'>
-                    <img src='./public/projects/tehozavrrr.png' width='300px'>
+                <a href='https://vue-gamma-eight.vercel.app' title='Просмотр демо-версии Магазин электроники Technozavrrr'>
+                    <img src='./public/projects/tehozavrrr.png' width='300px' alt='IMG Магазин электроники Technozavrrr'>
                 </a>
             </td> 
             <td>
@@ -133,8 +133,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/stdpls.gif' width='300px'>
+                <a href='#' title='Просмотр демо-версии SitDownPls'>
+                    <img src='./public/projects/stdpls.gif' width='300px' alt='IMG SitDownPls'>
                 </a>
             </td> 
             <td>
@@ -144,8 +144,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/evklid.gif' width='300px'>
+                <a href='#' title='Просмотр демо-версии Evklid'>
+                    <img src='./public/projects/evklid.gif' width='300px' alt='IMG Evklid'>
                 </a>
             </td> 
             <td>
@@ -155,8 +155,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/lagoona.gif' width='300px'>
+                <a href='#' title='Просмотр демо-версии Lagoona'>
+                    <img src='./public/projects/lagoona.gif' width='300px' alt='IMG Lagoona'>
                 </a>
             </td> 
             <td>
@@ -166,8 +166,8 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='#' title='Просмотр демо-версии'>
-                    <img src='./public/projects/todo-list.png' width='300px'>
+                <a href='#' title='Просмотр демо-версии ToDoList'>
+                    <img src='./public/projects/todo-list.png' width='300px' alt='IMG ToDoList'>
                 </a>
             </td> 
             <td>
@@ -177,14 +177,14 @@
             </td>
         </tr><tr>
             <td width='320px'>
-                <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии'>
-                    <img src='./public/projects/gym.png' width='300px'>
+                <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
+                    <img src='./public/projects/gym.png' width='300px' alt='IMG gym-training'>
                 </a>
             </td> 
             <td>
                 <h3><a href='https://github.com/i5anin/vue-gym-training' title='Открыть репозиторий'>gym-training</a></h3>
                 <p>my gym</p>
-                <p>Vue 3</p>
+                <p>Vue 3 Vuetify</p>
             </td>
         </tr>
 </table>

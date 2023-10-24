@@ -1,3 +1,4 @@
+// https://github.com/devicons/devicon/tree/master/icons
 const frameworks = [
   {
     name: 'Vue.js',
@@ -56,6 +57,11 @@ const tech = [
     name: 'php',
     link: 'https://www.php.net/',
     icon: './public/ico/php.svg',
+  },
+  {
+    name: 'PostgreSQL',
+    link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
+    icon: './public/ico/postgresql.svg',
   },
 ]
 
