@@ -26,40 +26,40 @@
 
 #### Технологии
 <div style='display: flex; flex-wrap: wrap;'>
-<a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>
+<!--       <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>-->
        <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'>
-       </a><a href='' title='TypeScript'>
+<!--       </a>--><!--       <a href='' title='TypeScript'>-->
        <img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'>
-       </a><a href='https://www.w3schools.com/html/' title='HTML 5'>
+<!--       </a>--><!--       <a href='https://www.w3schools.com/html/' title='HTML 5'>-->
        <img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'>
-       </a><a href='https://www.w3schools.com/css/' title='CSS'>
+<!--       </a>--><!--       <a href='https://www.w3schools.com/css/' title='CSS'>-->
        <img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'>
-       </a><a href='https://firebase.google.com/docs/database/web/read-and-write' title='Firebase'>
+<!--       </a>--><!--       <a href='https://firebase.google.com/docs/database/web/read-and-write' title='Firebase'>-->
        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
-       </a><a href='https://sass-lang.com/documentation/syntax' title='Sass'>
+<!--       </a>--><!--       <a href='https://sass-lang.com/documentation/syntax' title='Sass'>-->
        <img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
-       </a><a href='https://www.php.net/' title='php'>
+<!--       </a>--><!--       <a href='https://www.php.net/' title='php'>-->
        <img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
-       </a><a href='https://www.mysql.com/' title='MySql'>
+<!--       </a>--><!--       <a href='https://www.mysql.com/' title='MySql'>-->
        <img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'>
-       </a><a href='https://www.enterprisedb.com/downloads/postgres-postgresql-downloads' title='PostgreSQL'>
+<!--       </a>--><!--       <a href='https://www.enterprisedb.com/downloads/postgres-postgresql-downloads' title='PostgreSQL'>-->
        <img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
-       </a>
+<!--       </a>-->
 </div>
 
 #### Инструменты
 <div style='display: flex; flex-wrap: wrap;'>
-<a href='https://www.figma.com' title='Figma'>
+<!--       <a href='https://www.figma.com' title='Figma'>-->
        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'>
-       </a><a href='https://git-scm.com/docs' title='Git'>
+<!--       </a>--><!--       <a href='https://git-scm.com/docs' title='Git'>-->
        <img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'>
-       </a><a href='https://github.com/i5anin' title='GitHub'>
+<!--       </a>--><!--       <a href='https://github.com/i5anin' title='GitHub'>-->
        <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'>
-       </a><a href='https://gitlab.com/sergey.isanin' title='GitLab'>
+<!--       </a>--><!--       <a href='https://gitlab.com/sergey.isanin' title='GitLab'>-->
        <img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'>
-       </a><a href='https://chat.openai.com/chat/' title='OpenAI'>
+<!--       </a>--><!--       <a href='https://chat.openai.com/chat/' title='OpenAI'>-->
        <img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
-       </a>
+<!--       </a>-->
 </div>
 
 #### Мои проекты

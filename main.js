@@ -27,9 +27,9 @@ function generateMarkdownFile() {
   let techIcons = ''
   for (const technology of tech) {
     const technologyIcon = `
-       <a href='${technology.link}' title='${technology.name}'>
+<!--       <a href='${technology.link}' title='${technology.name}'>-->
        <img src='${technology.icon}' alt='${technology.name}' width='30px' height='30px'>
-       </a>
+<!--       </a>-->
 `
     techIcons += technologyIcon.trim()
   }
@@ -37,9 +37,9 @@ function generateMarkdownFile() {
   let toolsIcons = ''
   for (const tool of tools) {
     const toolIcon = `
-       <a href='${tool.link}' title='${tool.name}'>
+<!--       <a href='${tool.link}' title='${tool.name}'>-->
        <img src='${tool.icon}' alt='${tool.name}' width='30px' height='30px'>
-       </a>
+<!--       </a>-->
 `
     toolsIcons += toolIcon.trim()
   }
