@@ -47,9 +47,9 @@ function generateMarkdownFile() {
   let frameworksIcons = ''
   for (const framework of frameworks) {
     const frameworkIcon = `
-<!--       <a href='${framework.link}' title='${framework.name}'>-->
+       <a href='${framework.link}' title='${framework.name}'>
        <img src='${framework.icon}' alt='${framework.name}' width='30px' height='30px'>
-<!--       </a>-->
+       </a>
 `
     frameworksIcons += frameworkIcon.trim()
   }
