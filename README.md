@@ -231,7 +231,7 @@
 <div style='display: flex; flex-direction: row;'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>
     <a href='https://leetcode.com/i5anin/' target='_blank'>
-        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>
+        <img src='https://leetcard.jacoblin.cool/i5anin?animation=false' alt="KnlnKS's LeetCode stats" width='350'>
     </a>
 </div>
 
