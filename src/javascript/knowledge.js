@@ -5,21 +5,21 @@ const frameworks = [
     link: 'https://vuejs.org/guide/introduction.html',
     icon: './public/ico/vue.svg',
   },
-  {
-    name: 'Nuxt.js',
-    link: 'https://nuxtjs.org/',
-    icon: './public/ico/nuxtjs.svg',
-  },
+  // {
+  //   name: 'Nuxt.js',
+  //   link: 'https://nuxtjs.org/',
+  //   icon: './public/ico/nuxtjs.svg',
+  // },
   {
     name: 'vuetify',
     link: 'https://vuetifyjs.com/en/',
     icon: './public/ico/vuetify.svg',
   },
-  {
-    name: 'element-plus',
-    link: 'https://element-plus.org/en-US/guide/quickstart.html',
-    icon: './public/ico/element-plus.svg',
-  },
+  // {
+  //   name: 'element-plus',
+  //   link: 'https://element-plus.org/en-US/guide/quickstart.html',
+  //   icon: './public/ico/element-plus.svg',
+  // },
 ]
 
 const tech = [
