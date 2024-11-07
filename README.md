@@ -5,6 +5,7 @@
 
 Я фронтенд и бэкэнд разработчик<img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы. Работаю в IT более 3-х лет.
 
+<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
 ##### Цели и задачи:
 
 - ⚡️ Ищу интересную работу.
@@ -227,10 +228,10 @@
 <div style='display: flex; flex-direction: row;'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>
     <a href='https://leetcode.com/i5anin/' target='_blank'>
-        <img src='https://leetcard.jacoblin.cool/i5anin?animation=false' alt="KnlnKS's LeetCode stats" width='350'>
+        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>
     </a>
 </div>
 
-<img src='https://wakatime.com/share/@PizZzA/c118a921-143e-421a-bd92-dcf6608f3b12.svg' width='655'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>
+<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='655'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>
 
 ###### код для `markdown` сгенерирован на JavaScript `node main.js`
