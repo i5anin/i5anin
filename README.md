@@ -10,7 +10,7 @@
 
 ##### Цели и задачи:
 
-- ⚡️ Ищу интересную работу.
+- ⚡️ Легко обучаем, любая технология до 2-х недель.
 - 🔎 Изучаю веб-разработку и ищу современные решения!
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
