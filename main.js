@@ -78,15 +78,17 @@ function generateMarkdownFile() {
 
 ##### О себе:
 
-Я фронтенд и бэкэнд разработчик<img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>. Мой путь в IT начался ещё со школы и академии. Работал в IT сфере и укрепил свои знания курсами по Vue.js от Skillbox, где проходил 7-месячные курсы. Работаю в IT более 3-х лет.
+Я — опытный full-stack разработчик <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>, начавший формировать свои знания и опыт ещё со школьных лет и в академии. Свой путь в IT укрепил 7-месячными курсами по Vue.js, где изучил современные подходы к фронтенд-разработке. 
+
+За более чем три года работы в IT я уверенно комбинирую навыки фронтенда и бэкенда, создавая качественные проекты и решая сложные задачи.
 
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
 
 
 ##### Цели и задачи:
 
-- ⚡️ Ищу интересную работу.
-- 🔎 Изучаю веб-разработку и ищу современные решения!
+- ⚡️ Легко обучаем, любая технология до 2-х недель.
+- 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
 #### Фреймворки
@@ -116,12 +118,12 @@ ${coursesTable}
 </table>
 
 #### Статистика
-<div style='display: flex; flex-direction: row;'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>
-    <a href='https://leetcode.com/i5anin/' target='_blank'>
-        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>
-    </a>
-</div>
+<!--<div style='display: flex; flex-direction: row;'>-->
+<!--    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>-->
+<!--    <a href='https://leetcode.com/i5anin/' target='_blank'>-->
+<!--        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>-->
+<!--    </a>-->
+<!--</div>-->
 
 <img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='655'>\
 <img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>\
