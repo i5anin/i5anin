@@ -23,40 +23,11 @@ const frameworks = [
 ]
 
 const tech = [
-  {
-    name: 'JavaScript',
-    link: 'https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference',
-    icon: './public/ico/javascript-original.svg',
-  },
-  {
-    name: 'TypeScript',
-    link: '',
-    icon: './public/ico/typescript-original.svg',
-  },
-  {
-    name: 'HTML 5',
-    link: 'https://www.w3schools.com/html/',
-    icon: './public/ico/html5-original.svg',
-  },
-  {
-    name: 'CSS',
-    link: 'https://www.w3schools.com/css/',
-    icon: './public/ico/css3-original.svg',
-  },
+
   {
     name: 'Firebase',
     link: 'https://firebase.google.com/docs/database/web/read-and-write',
     icon: './public/ico/logo-logomark.svg',
-  },
-  {
-    name: 'Sass',
-    link: 'https://sass-lang.com/documentation/syntax',
-    icon: './public/ico/sass-original.svg',
-  },
-  {
-    name: 'php',
-    link: 'https://www.php.net/',
-    icon: './public/ico/php.svg',
   },
   {
     name: 'MySql',
@@ -102,4 +73,43 @@ const tools = [
     icon: './public/ico/openai.svg',
   },
 ]
-module.exports = { frameworks, tech, tools }
+
+const languages = [
+  {
+    name: 'JavaScript',
+    link: 'https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference',
+    icon: './public/ico/javascript-original.svg',
+  },
+  {
+    name: 'TypeScript',
+    link: '',
+    icon: './public/ico/typescript-original.svg',
+  },
+  {
+    name: 'HTML 5',
+    link: 'https://www.w3schools.com/html/',
+    icon: './public/ico/html5-original.svg',
+  },
+  {
+    name: 'CSS',
+    link: 'https://www.w3schools.com/css/',
+    icon: './public/ico/css3-original.svg',
+  },
+  {
+    name: 'Firebase',
+    link: 'https://firebase.google.com/docs/database/web/read-and-write',
+    icon: './public/ico/logo-logomark.svg',
+  },
+  {
+    name: 'Sass',
+    link: 'https://sass-lang.com/documentation/syntax',
+    icon: './public/ico/sass-original.svg',
+  },
+  {
+    name: 'php',
+    link: 'https://www.php.net/',
+    icon: './public/ico/php.svg',
+  },
+]
+
+module.exports = { frameworks, tech, tools, languages }
