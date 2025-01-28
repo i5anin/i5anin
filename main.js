@@ -96,8 +96,8 @@ function generateMarkdownFile() {
 #### Фреймворки, Технологии, Инструменты, Языки
 <table>
   <tr>
-    <th>Фреймворки</th>
-    <th>Технологии</th>
+    <th width='280px'>Фреймворки</th>
+    <th  width='280px'>Технологии</th>
   </tr>
   <tr>
     <td>
@@ -112,8 +112,8 @@ function generateMarkdownFile() {
     </td>
   </tr>
   <tr>
-    <th>Инструменты</th>
-    <th>Языки</th>
+    <th  width='280px'>Инструменты</th>
+    <th  width='280px'>Языки</th>
   </tr>
   <tr>
     <td>
