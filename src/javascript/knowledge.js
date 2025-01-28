@@ -39,11 +39,6 @@ const tech = [
     link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
     icon: './public/ico/postgresql.svg',
   },
-  {
-    name: 'Docker',
-    link: 'https://docs.docker.com/get-started/',
-    icon: './public/ico/docker-original.svg',
-  },
 ]
 
 const tools = [
@@ -71,6 +66,11 @@ const tools = [
     name: 'OpenAI',
     link: 'https://chat.openai.com/chat/',
     icon: './public/ico/openai.svg',
+  },
+  {
+    name: 'Docker',
+    link: 'https://docs.docker.com/get-started/',
+    icon: './public/ico/docker-original.svg',
   },
 ]
 
