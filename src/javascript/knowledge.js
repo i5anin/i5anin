@@ -72,6 +72,11 @@ const tools = [
     link: 'https://docs.docker.com/get-started/',
     icon: './public/ico/docker-original.svg',
   },
+  {
+    name: 'Yandex Cloud',
+    link: 'https://yandex.cloud/ru/docs',
+    icon: './public/ico/yandex-cloud.svg',
+  },
 ]
 
 const languages = [
