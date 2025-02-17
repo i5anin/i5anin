@@ -63,16 +63,6 @@ const tech = [
 
 const tools = [
   {
-    name: 'Figma',
-    link: 'https://www.figma.com',
-    icon: './public/ico/figma-original.svg',
-  },
-  {
-    name: 'Git',
-    link: 'https://git-scm.com/docs',
-    icon: './public/ico/git-original.svg',
-  },
-  {
     name: 'GitHub',
     link: 'https://github.com/i5anin',
     icon: './public/ico/github.svg',
@@ -83,9 +73,19 @@ const tools = [
     icon: './public/ico/gitlab-original.svg',
   },
   {
+    name: 'Git',
+    link: 'https://git-scm.com/docs',
+    icon: './public/ico/git-original.svg',
+  },
+  {
     name: 'Vite',
     link: 'https://vite.dev/',
     icon: './public/ico/vitejs.svg',
+  },
+  {
+    name: 'Figma',
+    link: 'https://www.figma.com',
+    icon: './public/ico/figma-original.svg',
   },
   {
     name: 'OpenAI',
