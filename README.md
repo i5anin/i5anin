@@ -41,7 +41,7 @@
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
+        <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px'><img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
       </div>
     </td>
     <td>
