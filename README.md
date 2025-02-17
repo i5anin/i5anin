@@ -16,67 +16,49 @@
 - 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-#### Фреймворки
-<div style='display: flex; flex-wrap: wrap;'>
-<a href='https://vuejs.org/guide/introduction.html' title='Vue.js'>
-       <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'>
-       </a><a href='https://nuxtjs.org/' title='Nuxt.js'>
-       <img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'>
-       </a><a href='https://vuetifyjs.com/en/' title='vuetify'>
-       <img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'>
-       </a><a href='https://element-plus.org/en-US/guide/quickstart.html' title='element-plus'>
-       <img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
-       </a>
-</div>
+#### Фреймворки, Технологии, Инструменты, Языки
+<table>
+  <tr>
+    <th width='280px'>Фреймворки</th>
+    <th  width='280px'>Технологии</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th  width='280px'>Инструменты</th>
+    <th  width='280px'>Языки</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'><img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
+      </div>
+    </td>
+  </tr>
+</table>
 
-#### Технологии
-<div style='display: flex; flex-wrap: wrap;'>
-<!--       <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference' title='JavaScript'>-->
-       <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='' title='TypeScript'>-->
-       <img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://www.w3schools.com/html/' title='HTML 5'>-->
-       <img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://www.w3schools.com/css/' title='CSS'>-->
-       <img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://firebase.google.com/docs/database/web/read-and-write' title='Firebase'>-->
-       <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://sass-lang.com/documentation/syntax' title='Sass'>-->
-       <img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://www.php.net/' title='php'>-->
-       <img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://www.mysql.com/' title='MySql'>-->
-       <img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://www.enterprisedb.com/downloads/postgres-postgresql-downloads' title='PostgreSQL'>-->
-       <img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://docs.docker.com/get-started/' title='Docker'>-->
-       <img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://yandex.cloud/ru/docs' title='Yandex Cloud'>-->
-       <img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'>
-<!--       </a>-->
-</div>
-
-#### Инструменты
-<div style='display: flex; flex-wrap: wrap;'>
-<!--       <a href='https://www.figma.com' title='Figma'>-->
-       <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://git-scm.com/docs' title='Git'>-->
-       <img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://github.com/i5anin' title='GitHub'>-->
-       <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://gitlab.com/sergey.isanin' title='GitLab'>-->
-       <img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'>
-<!--       </a>--><!--       <a href='https://chat.openai.com/chat/' title='OpenAI'>-->
-       <img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
-<!--       </a>-->
-</div>
 
 #### Мои проекты
 <table>
 <tr>
             <td width='320px'>
                 <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
-                    <img src='./public/projects/crm.png' width='300px''>
+                    <img src='./public/projects/crm.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -87,7 +69,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
-                    <img src='./public/projects/inventory.png' width='300px''>
+                    <img src='./public/projects/inventory.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -98,7 +80,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
-                    <img src='./public/projects/orderbook.png' width='300px''>
+                    <img src='./public/projects/orderbook.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -109,7 +91,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
-                    <img src='./public/projects/moire.png' width='300px''>
+                    <img src='./public/projects/moire.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -122,7 +104,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии Coin банк BTC'>
-                    <img src='./public/projects/coin.gif' width='300px''>
+                    <img src='./public/projects/coin.gif' width='300px'>
                 </a>
             </td> 
             <td>
@@ -134,7 +116,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='#' title='Просмотр демо-версии ToDoList'>
-                    <img src='./public/projects/todo-list.png' width='300px''>
+                    <img src='./public/projects/todo-list.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -145,7 +127,7 @@
         </tr><tr>
             <td width='320px'>
                 <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
-                    <img src='./public/projects/gym.png' width='300px''>
+                    <img src='./public/projects/gym.png' width='300px'>
                 </a>
             </td> 
             <td>
@@ -180,30 +162,23 @@
 </tr><tr>
 <td>stepik.org</td>
 <td>Web-технологии: начальный уровень</td>
-<td>07/2022 - 08/2022</td>
+<td>07.2022 - 08.2022</td>
 </tr><tr>
 <td>stepik.org</td>
 <td>Веб-разработка для начинающих: HTML и CSS</td>
-<td>07/2022 - 08/2022</td>
+<td>07.2022 - 08.2022</td>
 </tr><tr>
 <td>stepik.org</td>
 <td>JavaScript для начинающих</td>
-<td>07/2022 - 08/2022</td>
+<td>07.2022 - 08.2022</td>
 </tr><tr>
 <td>practicum.yandex</td>
 <td>Факультет Веб разработки</td>
-<td>07/2022 - 08/2022</td>
+<td>07.2022 - 08.2022</td>
 </tr>
 </table>
 
 #### Статистика
-<!--<div style='display: flex; flex-direction: row;'>-->
-<!--    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>-->
-<!--    <a href='https://leetcode.com/i5anin/' target='_blank'>-->
-<!--        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>-->
-<!--    </a>-->
-<!--</div>-->
-
-<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='655'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>
+<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='600'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='600'>
 
 ###### код для `markdown` сгенерирован на JavaScript `node main.js`

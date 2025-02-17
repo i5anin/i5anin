@@ -23,6 +23,58 @@ const frameworks = [
 ]
 
 const tech = [
+
+  {
+    name: 'Firebase',
+    link: 'https://firebase.google.com/docs/database/web/read-and-write',
+    icon: './public/ico/logo-logomark.svg',
+  },
+  {
+    name: 'MySql',
+    link: 'https://www.mysql.com/',
+    icon: './public/ico/mysql.svg',
+  },
+  {
+    name: 'PostgreSQL',
+    link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
+    icon: './public/ico/postgresql.svg',
+  },
+]
+
+const tools = [
+  {
+    name: 'Figma',
+    link: 'https://www.figma.com',
+    icon: './public/ico/figma-original.svg',
+  },
+  {
+    name: 'Git',
+    link: 'https://git-scm.com/docs',
+    icon: './public/ico/git-original.svg',
+  },
+  {
+    name: 'GitHub',
+    link: 'https://github.com/i5anin',
+    icon: './public/ico/github.svg',
+  },
+  {
+    name: 'GitLab',
+    link: 'https://gitlab.com/sergey.isanin',
+    icon: './public/ico/gitlab-original.svg',
+  },
+  {
+    name: 'OpenAI',
+    link: 'https://chat.openai.com/chat/',
+    icon: './public/ico/openai.svg',
+  },
+  {
+    name: 'Docker',
+    link: 'https://docs.docker.com/get-started/',
+    icon: './public/ico/docker-original.svg',
+  },
+]
+
+const languages = [
   {
     name: 'JavaScript',
     link: 'https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference',
@@ -58,53 +110,6 @@ const tech = [
     link: 'https://www.php.net/',
     icon: './public/ico/php.svg',
   },
-  {
-    name: 'MySql',
-    link: 'https://www.mysql.com/',
-    icon: './public/ico/mysql.svg',
-  },
-  {
-    name: 'PostgreSQL',
-    link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
-    icon: './public/ico/postgresql.svg',
-  },
-  {
-    name: 'Docker',
-    link: 'https://docs.docker.com/get-started/',
-    icon: './public/ico/docker-original.svg',
-  },
-  {
-    name: 'Yandex Cloud',
-    link: 'https://yandex.cloud/ru/docs',
-    icon: './public/ico/yandex-cloud.svg',
-  },
 ]
 
-const tools = [
-  {
-    name: 'Figma',
-    link: 'https://www.figma.com',
-    icon: './public/ico/figma-original.svg',
-  },
-  {
-    name: 'Git',
-    link: 'https://git-scm.com/docs',
-    icon: './public/ico/git-original.svg',
-  },
-  {
-    name: 'GitHub',
-    link: 'https://github.com/i5anin',
-    icon: './public/ico/github.svg',
-  },
-  {
-    name: 'GitLab',
-    link: 'https://gitlab.com/sergey.isanin',
-    icon: './public/ico/gitlab-original.svg',
-  },
-  {
-    name: 'OpenAI',
-    link: 'https://chat.openai.com/chat/',
-    icon: './public/ico/openai.svg',
-  },
-]
-module.exports = { frameworks, tech, tools }
+module.exports = { frameworks, tech, tools, languages }

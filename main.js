@@ -1,4 +1,4 @@
-const { frameworks, tools, tech } = require('./src/javascript/knowledge.js')
+const { frameworks, tools, tech, languages } = require('./src/javascript/knowledge.js')
 const { coursesList } = require('./src/javascript/courses.js')
 const projects = require('./src/javascript/projects.js')
 
@@ -11,7 +11,7 @@ function generateMarkdownFile() {
         <tr>
             <td width='320px'>
                 <a href='${project.demo_link}' title='Просмотр демо-версии ${project.title}'>
-                    <img src='${project.image_src}' width='300px''>
+                    <img src='${project.image_src}' width='300px'>
                 </a>
             </td> 
             <td>
@@ -27,9 +27,7 @@ function generateMarkdownFile() {
   let techIcons = ''
   for (const technology of tech) {
     const technologyIcon = `
-<!--       <a href='${technology.link}' title='${technology.name}'>-->
        <img src='${technology.icon}' alt='${technology.name}' width='30px' height='30px'>
-<!--       </a>-->
 `
     techIcons += technologyIcon.trim()
   }
@@ -37,9 +35,7 @@ function generateMarkdownFile() {
   let toolsIcons = ''
   for (const tool of tools) {
     const toolIcon = `
-<!--       <a href='${tool.link}' title='${tool.name}'>-->
        <img src='${tool.icon}' alt='${tool.name}' width='30px' height='30px'>
-<!--       </a>-->
 `
     toolsIcons += toolIcon.trim()
   }
@@ -47,11 +43,17 @@ function generateMarkdownFile() {
   let frameworksIcons = ''
   for (const framework of frameworks) {
     const frameworkIcon = `
-       <a href='${framework.link}' title='${framework.name}'>
        <img src='${framework.icon}' alt='${framework.name}' width='30px' height='30px'>
-       </a>
 `
     frameworksIcons += frameworkIcon.trim()
+  }
+
+  let languagesIcons = ''
+  for (const language of languages) {
+    const languageIcons = `
+       <img src='${language.icon}' alt='${language.name}' width='30px' height='30px'>
+`
+    languagesIcons += languageIcons.trim()
   }
 
   let coursesTable = `
@@ -91,20 +93,42 @@ function generateMarkdownFile() {
 - 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-#### Фреймворки
-<div style='display: flex; flex-wrap: wrap;'>
-${frameworksIcons}
-</div>
+#### Фреймворки, Технологии, Инструменты, Языки
+<table>
+  <tr>
+    <th width='280px'>Фреймворки</th>
+    <th  width='280px'>Технологии</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        ${frameworksIcons}
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        ${techIcons}
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th  width='280px'>Инструменты</th>
+    <th  width='280px'>Языки</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+        ${toolsIcons}
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap;">
+         ${languagesIcons}
+      </div>
+    </td>
+  </tr>
+</table>
 
-#### Технологии
-<div style='display: flex; flex-wrap: wrap;'>
-${techIcons}
-</div>
-
-#### Инструменты
-<div style='display: flex; flex-wrap: wrap;'>
-${toolsIcons}
-</div>
 
 #### Мои проекты
 <table>
@@ -118,15 +142,8 @@ ${coursesTable}
 </table>
 
 #### Статистика
-<!--<div style='display: flex; flex-direction: row;'>-->
-<!--    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=i5anin&layout=compact&theme=dark' alt='Top Langs' width='300'>-->
-<!--    <a href='https://leetcode.com/i5anin/' target='_blank'>-->
-<!--        <img src='https://leetcode-stats-six.vercel.app/?username=i5anin&theme=dark' alt="KnlnKS's LeetCode stats" width='350'>-->
-<!--    </a>-->
-<!--</div>-->
-
-<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='655'>\
-<img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='655'>\
+<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='600'>\
+<img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='600'>\
 
 
 ###### код для \`markdown\` сгенерирован на JavaScript \`node main.js\`
@@ -138,6 +155,7 @@ ${coursesTable}
 
     .replace('${techIcons}', techIcons)
     .replace('${toolsIcons}', toolsIcons)
+    .replace('${languagesIcons}', languagesIcons)
     .replace('${frameworksIcons}', frameworksIcons)
 
   fs.writeFileSync('README.md', generatedMarkdownContent, 'utf-8')
