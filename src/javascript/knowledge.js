@@ -20,6 +20,16 @@ const frameworks = [
     link: 'https://element-plus.org/en-US/guide/quickstart.html',
     icon: './public/ico/element-plus.svg',
   },
+  {
+    name: 'telegraf.js',
+    link: 'https://telegraf.js.org/',
+    icon: './public/ico/telegraf.svg',
+  },
+  {
+    name: 'express.js',
+    link: 'https://expressjs.com/',
+    icon: './public/ico/express.svg',
+  },
 ]
 
 const tech = [

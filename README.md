@@ -25,7 +25,7 @@
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'>
+        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px'>
       </div>
     </td>
     <td>
