@@ -83,6 +83,11 @@ const tools = [
     icon: './public/ico/gitlab-original.svg',
   },
   {
+    name: 'Vite',
+    link: 'https://vite.dev/',
+    icon: './public/ico/vitejs.svg',
+  },
+  {
     name: 'OpenAI',
     link: 'https://chat.openai.com/chat/',
     icon: './public/ico/openai.svg',
