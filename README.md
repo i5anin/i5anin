@@ -51,6 +51,8 @@
        <img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
 <!--       </a>--><!--       <a href='https://docs.docker.com/get-started/' title='Docker'>-->
        <img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'>
+<!--       </a>--><!--       <a href='https://yandex.cloud/ru/docs' title='Yandex Cloud'>-->
+       <img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'>
 <!--       </a>-->
 </div>
 
