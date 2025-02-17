@@ -111,11 +111,11 @@ const languages = [
     link: 'https://sass-lang.com/documentation/syntax',
     icon: './public/ico/sass-original.svg',
   },
-  {
-    name: 'php',
-    link: 'https://www.php.net/',
-    icon: './public/ico/php.svg',
-  },
+  // {
+  //   name: 'php',
+  //   link: 'https://www.php.net/',
+  //   icon: './public/ico/php.svg',
+  // },
 ]
 
 module.exports = { frameworks, tech, tools, languages }

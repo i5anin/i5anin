@@ -46,7 +46,7 @@
     </td>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'><img src='./public/ico/php.svg' alt='php' width='30px' height='30px'>
+         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
       </div>
     </td>
   </tr>
