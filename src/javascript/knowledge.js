@@ -39,6 +39,16 @@ const tech = [
     link: 'https://www.enterprisedb.com/downloads/postgres-postgresql-downloads',
     icon: './public/ico/postgresql.svg',
   },
+  {
+    name: 'Docker',
+    link: 'https://docs.docker.com/get-started/',
+    icon: './public/ico/docker-original.svg',
+  },
+  {
+    name: 'Yandex Cloud',
+    link: 'https://yandex.cloud/ru/docs',
+    icon: './public/ico/yandex-cloud.svg',
+  },
 ]
 
 const tools = [
@@ -67,16 +77,7 @@ const tools = [
     link: 'https://chat.openai.com/chat/',
     icon: './public/ico/openai.svg',
   },
-  {
-    name: 'Docker',
-    link: 'https://docs.docker.com/get-started/',
-    icon: './public/ico/docker-original.svg',
-  },
-  {
-    name: 'Yandex Cloud',
-    link: 'https://yandex.cloud/ru/docs',
-    icon: './public/ico/yandex-cloud.svg',
-  },
+
 ]
 
 const languages = [

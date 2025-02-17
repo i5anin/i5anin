@@ -30,7 +30,7 @@
     </td>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'>
+        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'>
       </div>
     </td>
   </tr>
@@ -41,7 +41,7 @@
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'>
+        <img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
       </div>
     </td>
     <td>
