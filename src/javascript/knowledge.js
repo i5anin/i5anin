@@ -59,6 +59,11 @@ const tech = [
     link: 'https://yandex.cloud/ru/docs',
     icon: './public/ico/yandex-cloud.svg',
   },
+  {
+    name: 'Firebase',
+    link: 'https://firebase.google.com/docs/database/web/read-and-write',
+    icon: './public/ico/logo-logomark.svg',
+  },
 ]
 
 const tools = [
@@ -116,11 +121,7 @@ const languages = [
     link: 'https://www.w3schools.com/css/',
     icon: './public/ico/css3-original.svg',
   },
-  {
-    name: 'Firebase',
-    link: 'https://firebase.google.com/docs/database/web/read-and-write',
-    icon: './public/ico/logo-logomark.svg',
-  },
+
   {
     name: 'Sass',
     link: 'https://sass-lang.com/documentation/syntax',

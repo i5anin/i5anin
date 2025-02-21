@@ -2,11 +2,7 @@
 ## Привет, меня зовут Сергей!
 
 ##### О себе:
-<p align="center">
-  <a href="https://www.youtube.com/@i5anin?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Подписаться на мой YouTube" src="UCbmJEEZ-Q-dRVV7j8wOr5cw"/>
-  </a>
-</p>
+
 Я — опытный full-stack разработчик <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>, начавший формировать свои знания и опыт ещё со школьных лет и в академии. Свой путь в IT укрепил 7-месячными курсами по Vue.js, где изучил современные подходы к фронтенд-разработке. 
 
 За более чем три года работы в IT я уверенно комбинирую навыки фронтенда и бэкенда, создавая качественные проекты и решая сложные задачи.
@@ -34,7 +30,7 @@
     </td>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'>
+        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
       </div>
     </td>
   </tr>
@@ -50,7 +46,7 @@
     </td>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
+         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
       </div>
     </td>
   </tr>
