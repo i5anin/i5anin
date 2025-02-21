@@ -2,11 +2,11 @@
 ## Привет, меня зовут Сергей!
 
 ##### О себе:
-
-<a href="https://www.youtube.com/c/i5anin?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
-</a>
-
+<p align="center">
+  <a href="https://www.youtube.com/@i5anin?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Подписаться на мой YouTube" src="UCbmJEEZ-Q-dRVV7j8wOr5cw"/>
+  </a>
+</p>
 Я — опытный full-stack разработчик <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>, начавший формировать свои знания и опыт ещё со школьных лет и в академии. Свой путь в IT укрепил 7-месячными курсами по Vue.js, где изучил современные подходы к фронтенд-разработке. 
 
 За более чем три года работы в IT я уверенно комбинирую навыки фронтенда и бэкенда, создавая качественные проекты и решая сложные задачи.
