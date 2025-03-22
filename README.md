@@ -30,7 +30,7 @@
     </td>
     <td>
       <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'><img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'>
+        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'><img src='./public/ico/yandex-tracker.svg' alt='Yandex Tracker' width='30px' height='30px'>
       </div>
     </td>
   </tr>

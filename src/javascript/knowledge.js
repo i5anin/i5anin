@@ -60,9 +60,9 @@ const tech = [
     icon: './public/ico/yandex-cloud.svg',
   },
   {
-    name: 'Firebase',
-    link: 'https://firebase.google.com/docs/database/web/read-and-write',
-    icon: './public/ico/logo-logomark.svg',
+    name: 'Yandex Tracker',
+    link: 'https://yandex.ru/support/tracker/ru/',
+    icon: './public/ico/yandex-tracker.svg',
   },
 ]
 
