@@ -1,6 +1,6 @@
-const { frameworks, tools, tech, languages } = require('./src/javascript/knowledge.js')
-const { coursesList } = require('./src/javascript/courses.js')
-const projects = require('./src/javascript/projects.js')
+const { frameworks, tools, tech, languages } = require('./knowledge.js')
+const { coursesList } = require('./courses.js')
+const projects = require('./projects.js')
 
 const fs = require('fs')
 
@@ -80,9 +80,19 @@ function generateMarkdownFile() {
 
 ##### О себе:
 
-Я — опытный full-stack разработчик <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif' width='28px'>, начавший формировать свои знания и опыт ещё со школьных лет и в академии. Свой путь в IT укрепил 7-месячными курсами по Vue.js, где изучил современные подходы к фронтенд-разработке. 
+Привет, я Сергей — опытный full-stack DevOps-разработчик.
 
-За более чем три года работы в IT я уверенно комбинирую навыки фронтенда и бэкенда, создавая качественные проекты и решая сложные задачи.
+В IT начал со школы, продолжил в академии. Прошёл углублённое обучение по Vue.js и React, изучаю и применяю современные архитектурные подходы.
+
+⚙️ Комбинирую frontend и backend, проектирую масштабируемые приложения, опираясь на:
+
++ Feature-Sliced Design (FSD)
+
++ Принципы SOLID и ООП
+
++ Чистый код и модульность
+
+⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
 
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
 

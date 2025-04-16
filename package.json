@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "main": "node main.js"
+    "gen": "node src/readme-generate"
   }
 }
