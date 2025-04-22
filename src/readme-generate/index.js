@@ -86,15 +86,11 @@ function generateMarkdownFile() {
 
 ⚙️ Комбинирую frontend и backend, проектирую масштабируемые приложения, опираясь на:
 
-+ Feature-Sliced Design (FSD)
-
-+ Принципы SOLID и ООП
-
-+ Чистый код и модульность
+\`Feature-Sliced Design (FSD)\` \`Принципы SOLID и ООП\` \`Чистый код и модульность\`
 
 ⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
 
-<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
+
 
 
 ##### Цели и задачи:
@@ -145,18 +141,16 @@ function generateMarkdownFile() {
 ${projectsTable}
 </table>
 
+<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
+
 #### Пройденные курсы
 
 <table>
 ${coursesTable}
 </table>
 
-#### Статистика
-<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='600'>\
-<img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='600'>\
 
 
-###### код для \`markdown\` сгенерирован на JavaScript \`node main.js\`
 `
 
   const generatedMarkdownContent = markdownContent
