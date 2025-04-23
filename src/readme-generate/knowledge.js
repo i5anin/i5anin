@@ -104,7 +104,7 @@ const languages = [
   {
     name: 'JavaScript',
     link: 'https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference',
-    icon: './public/ico/readme-generate-original.svg',
+    icon: './public/ico/javascript-original.svg',
   },
   {
     name: 'TypeScript',
