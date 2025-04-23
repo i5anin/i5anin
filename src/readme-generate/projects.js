@@ -14,7 +14,7 @@ const projects = [
     demo_link: `https://drag-and-drop-inventory.vercel.app/`,
     repository_link: `${githubURL}/drag-and-drop-inventory`,
     title: `Инвентарь`,
-    description: ``,
+    description: `Инвентарь — Vue 3 SPA\nОдностраничное приложение-инвентарь, реализованное на Vue 3 (Composition API).\n\nОсобенности:\n\n• Drag & Drop перемещение предметов;\n• Сохранение данных в localStorage (автономная работа без сервера);\n• Плашка с описанием и удалением при клике на предмет;\n• Полностью кастомный UI на SCSS, без UI-фреймворков;\n• Структурированная архитектура: модульная разбивка, вынос логики, переиспользуемые компоненты.`,
     technologies: `Vue 3`,
   },
   {
