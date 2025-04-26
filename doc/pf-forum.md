@@ -1,7 +1,7 @@
 ⚡️ GitHub: https://github.com/i5anin
 
 Fullstack-разработчик
-Vue 3 | Node.js | Docker | Laravel | Express | PostgresSQL | MySQL
+Vue 3 Node.js Docker Laravel Express PostgresSQL MySQL
 
 Проекты:
 
