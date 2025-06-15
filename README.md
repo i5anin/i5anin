@@ -13,50 +13,21 @@
 
 ⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
 
-
-
-
 ##### Цели и задачи:
 
 - ⚡️ Легко обучаем, любая технология до 2-х недель.
 - 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-#### Фреймворки, Технологии, Инструменты, Языки
-<table>
-  <tr>
-    <th width='280px'>Фреймворки</th>
-    <th  width='280px'>Технологии</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px'>
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'><img src='./public/ico/yandex-tracker.svg' alt='Yandex Tracker' width='30px' height='30px'>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <th  width='280px'>Инструменты</th>
-    <th  width='280px'>Языки</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px'><img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-         <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
-      </div>
-    </td>
-  </tr>
-</table>
+
+#### **Стек знаний:**
+<p>
+  <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/yandex-tracker.svg' alt='Yandex Tracker' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/javascript-original.svg' alt='JavaScript' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px' style='margin: 2px;'>
+</p>
+
 
 
 <details>
@@ -158,5 +129,3 @@
 </details>
 
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
-
-

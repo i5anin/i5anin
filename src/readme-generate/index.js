@@ -1,8 +1,13 @@
 const { frameworks, tools, tech, languages } = require('./knowledge.js')
 const { coursesList } = require('./courses.js')
 const projects = require('./projects.js')
-
 const fs = require('fs')
+
+function renderIcons(array) {
+  return array
+    .map(item => `<img src='${item.icon}' alt='${item.name}' width='30px' height='30px' style='margin: 2px;'>`)
+    .join('')
+}
 
 function generateMarkdownFile() {
   let projectsTable = ''
@@ -22,38 +27,6 @@ function generateMarkdownFile() {
         </tr>
 `
     projectsTable += projectRow.trim()
-  }
-
-  let techIcons = ''
-  for (const technology of tech) {
-    const technologyIcon = `
-       <img src='${technology.icon}' alt='${technology.name}' width='30px' height='30px'>
-`
-    techIcons += technologyIcon.trim()
-  }
-
-  let toolsIcons = ''
-  for (const tool of tools) {
-    const toolIcon = `
-       <img src='${tool.icon}' alt='${tool.name}' width='30px' height='30px'>
-`
-    toolsIcons += toolIcon.trim()
-  }
-
-  let frameworksIcons = ''
-  for (const framework of frameworks) {
-    const frameworkIcon = `
-       <img src='${framework.icon}' alt='${framework.name}' width='30px' height='30px'>
-`
-    frameworksIcons += frameworkIcon.trim()
-  }
-
-  let languagesIcons = ''
-  for (const language of languages) {
-    const languageIcons = `
-       <img src='${language.icon}' alt='${language.name}' width='30px' height='30px'>
-`
-    languagesIcons += languageIcons.trim()
   }
 
   let coursesTable = `
@@ -90,50 +63,21 @@ function generateMarkdownFile() {
 
 ⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
 
-
-
-
 ##### Цели и задачи:
 
 - ⚡️ Легко обучаем, любая технология до 2-х недель.
 - 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-#### Фреймворки, Технологии, Инструменты, Языки
-<table>
-  <tr>
-    <th width='280px'>Фреймворки</th>
-    <th  width='280px'>Технологии</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        ${frameworksIcons}
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        ${techIcons}
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <th  width='280px'>Инструменты</th>
-    <th  width='280px'>Языки</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        ${toolsIcons}
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-         ${languagesIcons}
-      </div>
-    </td>
-  </tr>
-</table>
+
+#### **Стек знаний:**
+<p>
+  ${renderIcons(frameworks)}
+  ${renderIcons(tech)}
+  ${renderIcons(tools)}
+  ${renderIcons(languages)}
+</p>
+
 
 
 <details>
@@ -146,20 +90,9 @@ function generateMarkdownFile() {
 </details>
 
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
-
-
 `
 
-  const generatedMarkdownContent = markdownContent
-    .replace('${projectsTable}', projectsTable)
-    .replace('${coursesTable}', coursesTable)
-
-    .replace('${techIcons}', techIcons)
-    .replace('${toolsIcons}', toolsIcons)
-    .replace('${languagesIcons}', languagesIcons)
-    .replace('${frameworksIcons}', frameworksIcons)
-
-  fs.writeFileSync('README.md', generatedMarkdownContent, 'utf-8')
+  fs.writeFileSync('README.md', markdownContent, 'utf-8')
 }
 
 generateMarkdownFile()
