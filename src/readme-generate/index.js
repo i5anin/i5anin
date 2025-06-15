@@ -136,19 +136,16 @@ function generateMarkdownFile() {
 </table>
 
 
-#### Мои проекты
-<table>
-${projectsTable}
-</table>
+<details>
+  <summary><strong>🧩 Мои проекты</strong></summary>
+
+  <table>
+    ${projectsTable}
+  </table>
+
+</details>
 
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
-
-#### Пройденные курсы
-
-<table>
-${coursesTable}
-</table>
-
 
 
 `
