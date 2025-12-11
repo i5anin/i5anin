@@ -9,16 +9,9 @@
 
 ⚙️ Комбинирую frontend и backend, проектирую масштабируемые приложения, опираясь на:
 
-+ 'Feature-Sliced Design (FSD)'
-
-+ Принципы SOLID и ООП
-
-+ Чистый код и модульность
+`Feature-Sliced Design (FSD)` `Принципы SOLID и ООП` `Чистый код и модульность`
 
 ⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
-
-<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
-
 
 ##### Цели и задачи:
 
@@ -26,46 +19,22 @@
 - 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
 - ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-#### Фреймворки, Технологии, Инструменты, Языки
-<table>
-  <tr>
-    <th width='280px'>Фреймворки</th>
-    <th  width='280px'>Технологии</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px'><img src='./public/ico/vuetify.svg' alt='vuetify' width='30px' height='30px'><img src='./public/ico/element-plus.svg' alt='element-plus' width='30px' height='30px'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px'>
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px'><img src='./public/ico/mysql.svg' alt='MySql' width='30px' height='30px'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px'><img src='./public/ico/yandex-tracker.svg' alt='Yandex Tracker' width='30px' height='30px'>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <th  width='280px'>Инструменты</th>
-    <th  width='280px'>Языки</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-        <img src='./public/ico/github.svg' alt='GitHub' width='30px' height='30px'><img src='./public/ico/gitlab-original.svg' alt='GitLab' width='30px' height='30px'><img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px'><img src='./public/ico/figma-original.svg' alt='Figma' width='30px' height='30px'><img src='./public/ico/openai.svg' alt='OpenAI' width='30px' height='30px'>
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
-         <img src='./public/ico/readme-generate-original.svg' alt='JavaScript' width='30px' height='30px'><img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px'><img src='./public/ico/html5-original.svg' alt='HTML 5' width='30px' height='30px'><img src='./public/ico/css3-original.svg' alt='CSS' width='30px' height='30px'><img src='./public/ico/sass-original.svg' alt='Sass' width='30px' height='30px'>
-      </div>
-    </td>
-  </tr>
-</table>
+
+#### **Стек знаний:**
+<p>
+  <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/git-original.svg' alt='Git' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/vitejs.svg' alt='Vite' width='30px' height='30px' style='margin: 2px;'>
+  <img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px' style='margin: 2px;'>
+</p>
 
 
-#### Мои проекты
-<table>
-<tr>
+
+<details>
+  <summary><strong>🧩 Мои проекты</strong></summary>
+
+  <table>
+    <tr>
             <td width='320px'>
                 <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
                     <img src='./public/projects/crm.png' width='300px'>
@@ -84,7 +53,16 @@
             </td> 
             <td>
                 <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
-                <p></p>
+                <p>Инвентарь — Vue 3 SPA
+Одностраничное приложение-инвентарь, реализованное на Vue 3 (Composition API).
+
+Особенности:
+
+• Drag & Drop перемещение предметов;
+• Сохранение данных в localStorage (автономная работа без сервера);
+• Плашка с описанием и удалением при клике на предмет;
+• Полностью кастомный UI на SCSS, без UI-фреймворков;
+• Структурированная архитектура: модульная разбивка, вынос логики, переиспользуемые компоненты.</p>
                 <p>Vue 3</p>
             </td>
         </tr><tr>
@@ -146,49 +124,8 @@
                 <p>Vue 3 Vuetify</p>
             </td>
         </tr>
-</table>
+  </table>
 
-#### Пройденные курсы
+</details>
 
-<table>
-
-<tr>
-<th>Сайт</th>
-<th>Курс</th>
-<th>Дата</th>
-</tr>
-<tr>
-<td>skillbox.com</td>
-<td>DevOps-инженер. Docker</td>
-<td>01.2025 - 02.2025</td>
-</tr><tr>
-<td>pruffme.com</td>
-<td>[Дмитрий Лаврик] Vue.js Интенсивный курс для программистов (2022)</td>
-<td>07.2023 - 08.2023</td>
-</tr><tr>
-<td>skillbox.ru</td>
-<td>Программа профессиональной переподготовки «Frontend-разработчик»</td>
-<td>08.2022 - 03.2023</td>
-</tr><tr>
-<td>stepik.org</td>
-<td>Web-технологии: начальный уровень</td>
-<td>07.2022 - 08.2022</td>
-</tr><tr>
-<td>stepik.org</td>
-<td>Веб-разработка для начинающих: HTML и CSS</td>
-<td>07.2022 - 08.2022</td>
-</tr><tr>
-<td>stepik.org</td>
-<td>JavaScript для начинающих</td>
-<td>07.2022 - 08.2022</td>
-</tr><tr>
-<td>practicum.yandex</td>
-<td>Факультет Веб разработки</td>
-<td>07.2022 - 08.2022</td>
-</tr>
-</table>
-
-#### Статистика
-<img src='https://wakatime.com/share/@PizZzA/c2f9a9da-83d1-40e2-9ee1-2a0a255b9a00.svg' width='600'><img src='https://wakatime.com/share/@PizZzA/54c18525-8ad1-4ff3-80c5-62f71b0c7916.svg' width='600'>
-
-###### код для `markdown` сгенерирован на JavaScript `node main.js`
+<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
