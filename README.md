@@ -37,7 +37,7 @@
     <tr>
     <td width='320px'>
         <a href='https://i5anin-rubik.vercel.app/' title='Просмотр демо-версии Кубик Рубика'>
-            <img src='./public/projects/rubik.png' width='300px'>
+            <img src='https://raw.githubusercontent.com/i5anin/rubik/main/docs/cover.svg' width='300px'>
         </a>
     </td>
     <td>

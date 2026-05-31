@@ -2,7 +2,7 @@ const { gitlabURL, githubURL } = require(`./url.js`)
 
 const projects = [
   {
-    image_src: `./public/projects/rubik.png`,
+    image_src: `https://raw.githubusercontent.com/i5anin/rubik/main/docs/cover.svg`,
     demo_link: `https://i5anin-rubik.vercel.app/`,
     repository_link: `${githubURL}/rubik`,
     title: `Кубик Рубика`,
