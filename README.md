@@ -36,13 +36,33 @@
   <table>
     <tr>
     <td width='320px'>
+        <a href='https://i5anin-rubik.vercel.app/' title='Просмотр демо-версии Кубик Рубика'>
+            <img src='./public/projects/rubik.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://github.com/i5anin/rubik' title='Открыть репозиторий'>Кубик Рубика</a></h3>
+        <p>Интерактивный 3D кубик Рубика в браузере.
+
+• Вращение граней мышью и клавиатурой;
+• Корректная 3D-анимация переходов;
+• Генерация случайного перемешивания.</p>
+        <p>Vue 3</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
         <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
             <img src='./public/projects/crm.png' width='300px'>
         </a>
     </td>
     <td>
         <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
-        <p></p>
+        <p>Система управления клиентами на Vue 3.
+
+• Учёт клиентов и сделок;
+• Авторизация и разграничение доступа;
+• Финальный проект курса Skillbox.</p>
         <p>Vue 3</p>
     </td>
 </tr>
@@ -75,8 +95,12 @@
     </td>
     <td>
         <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
-        <p></p>
-        <p>Vue 3 UI Element Plus</p>
+        <p>Биржевой стакан BTC/USDT в реальном времени.
+
+• WebSocket подключение к бирже;
+• Отображение ордеров на покупку и продажу;
+• Автообновление без перезагрузки страницы.</p>
+        <p>Vue 3, Element Plus</p>
     </td>
 </tr>
 <tr>

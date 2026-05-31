@@ -2,11 +2,19 @@ const { gitlabURL, githubURL } = require(`./url.js`)
 
 const projects = [
   {
+    image_src: `./public/projects/rubik.png`,
+    demo_link: `https://i5anin-rubik.vercel.app/`,
+    repository_link: `${githubURL}/rubik`,
+    title: `Кубик Рубика`,
+    description: `Интерактивный 3D кубик Рубика в браузере.\n\n• Вращение граней мышью и клавиатурой;\n• Корректная 3D-анимация переходов;\n• Генерация случайного перемешивания.`,
+    technologies: `Vue 3`,
+  },
+  {
     image_src: `./public/projects/crm.png`,
     demo_link: `https://final-vue-crm.vercel.app/`,
     repository_link: `${gitlabURL}/crm_final_vue`,
     title: `CRM`,
-    description: ``,
+    description: `Система управления клиентами на Vue 3.\n\n• Учёт клиентов и сделок;\n• Авторизация и разграничение доступа;\n• Финальный проект курса Skillbox.`,
     technologies: `Vue 3`,
   },
   {
@@ -22,8 +30,8 @@ const projects = [
     demo_link: `https://order-btc-vue3.vercel.app/`,
     repository_link: `${githubURL}/Order-Book-Vue3`,
     title: `Биржевой стакан`,
-    description: ``,
-    technologies: `Vue 3 UI Element Plus`,
+    description: `Биржевой стакан BTC/USDT в реальном времени.\n\n• WebSocket подключение к бирже;\n• Отображение ордеров на покупку и продажу;\n• Автообновление без перезагрузки страницы.`,
+    technologies: `Vue 3, Element Plus`,
   },
   {
     image_src: `./public/projects/moire.png`,
