@@ -1,52 +1,34 @@
-const { frameworks, tools, tech, languages } = require('./knowledge.js')
-const { coursesList } = require('./courses.js')
-const projects = require('./projects.js')
+const path = require('path')
 const fs = require('fs')
+const { frameworks, tools, tech, languages } = require('./knowledge.js')
+const projects = require('./projects.js')
 
 function renderIcons(array) {
   return array
-    .map(item => `<img src='${item.icon}' alt='${item.name}' width='30px' height='30px' style='margin: 2px;'>`)
+    .map(
+      item =>
+        `<img src='${item.icon}' alt='${item.name}' width='30px' height='30px' style='margin: 2px;'>`
+    )
     .join('')
 }
 
+function renderProjectRow(project) {
+  return `<tr>
+    <td width='320px'>
+        <a href='${project.demo_link}' title='Просмотр демо-версии ${project.title}'>
+            <img src='${project.image_src}' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='${project.repository_link}' title='Открыть репозиторий'>${project.title}</a></h3>
+        <p>${project.description}</p>
+        <p>${project.technologies}</p>
+    </td>
+</tr>`
+}
+
 function generateMarkdownFile() {
-  let projectsTable = ''
-  for (const project of projects) {
-    const projectRow = `
-        <tr>
-            <td width='320px'>
-                <a href='${project.demo_link}' title='Просмотр демо-версии ${project.title}'>
-                    <img src='${project.image_src}' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='${project.repository_link}' title='Открыть репозиторий'>${project.title}</a></h3>
-                <p>${project.description}</p>
-                <p>${project.technologies}</p>
-            </td>
-        </tr>
-`
-    projectsTable += projectRow.trim()
-  }
-
-  let coursesTable = `
-<tr>
-<th>Сайт</th>
-<th>Курс</th>
-<th>Дата</th>
-</tr>
-`
-
-  for (const course of coursesList) {
-    const courseRow = `
-<tr>
-<td>${course['Сайт']}</td>
-<td>${course['Курс']}</td>
-<td>${course['Дата']}</td>
-</tr>
-`
-    coursesTable += courseRow.trim()
-  }
+  const projectsTable = projects.map(renderProjectRow).join('\n')
 
   const markdownContent = `
 ## Привет, меня зовут Сергей!
@@ -92,7 +74,8 @@ function generateMarkdownFile() {
 <img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
 `
 
-  fs.writeFileSync('README.md', markdownContent, 'utf-8')
+  const outputPath = path.resolve(__dirname, '../../README.md')
+  fs.writeFileSync(outputPath, markdownContent, 'utf-8')
 }
 
 generateMarkdownFile()

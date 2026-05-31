@@ -5,7 +5,7 @@
 
 Привет, я Сергей — опытный full-stack DevOps-разработчик.
 
-В IT начал со школы, продолжил в академии. Прошёл углублённое обучение по Vue.js, изучаю и применяю современные архитектурные подходы.
+В IT начал со школы, продолжил в академии. Прошёл углублённое обучение по Vue.js и React, изучаю и применяю современные архитектурные подходы.
 
 ⚙️ Комбинирую frontend и backend, проектирую масштабируемые приложения, опираясь на:
 
@@ -35,25 +35,26 @@
 
   <table>
     <tr>
-            <td width='320px'>
-                <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
-                    <img src='./public/projects/crm.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
-                <p></p>
-                <p>Vue 3</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
-                    <img src='./public/projects/inventory.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
-                <p>Инвентарь — Vue 3 SPA
+    <td width='320px'>
+        <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
+            <img src='./public/projects/crm.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
+        <p></p>
+        <p>Vue 3</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
+            <img src='./public/projects/inventory.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
+        <p>Инвентарь — Vue 3 SPA
 Одностраничное приложение-инвентарь, реализованное на Vue 3 (Composition API).
 
 Особенности:
@@ -63,67 +64,72 @@
 • Плашка с описанием и удалением при клике на предмет;
 • Полностью кастомный UI на SCSS, без UI-фреймворков;
 • Структурированная архитектура: модульная разбивка, вынос логики, переиспользуемые компоненты.</p>
-                <p>Vue 3</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
-                    <img src='./public/projects/orderbook.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
-                <p></p>
-                <p>Vue 3 UI Element Plus</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
-                    <img src='./public/projects/moire.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
-                <p>
+        <p>Vue 3</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
+            <img src='./public/projects/orderbook.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
+        <p></p>
+        <p>Vue 3 UI Element Plus</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
+            <img src='./public/projects/moire.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
+        <p>
 Полноценная версия
 Финальный проект Skillbox</p>
-                <p>Vue 3</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='#' title='Просмотр демо-версии Coin банк BTC'>
-                    <img src='./public/projects/coin.gif' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
-                <p>JavaScript
+        <p>Vue 3</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='#' title='Просмотр демо-версии Coin банк BTC'>
+            <img src='./public/projects/coin.gif' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
+        <p>JavaScript
 Перевод средств между счетами</p>
-                <p>JavaScript</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='#' title='Просмотр демо-версии ToDoList'>
-                    <img src='./public/projects/todo-list.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-                <p>Первый проект</p>
-                <p>Vue 3, Firebase</p>
-            </td>
-        </tr><tr>
-            <td width='320px'>
-                <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
-                    <img src='./public/projects/gym.png' width='300px'>
-                </a>
-            </td> 
-            <td>
-                <h3><a href='https://github.com/i5anin/vue-gym-training' title='Открыть репозиторий'>gym-training</a></h3>
-                <p>my gym</p>
-                <p>Vue 3 Vuetify</p>
-            </td>
-        </tr>
+        <p>JavaScript</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='#' title='Просмотр демо-версии ToDoList'>
+            <img src='./public/projects/todo-list.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
+        <p>Первый проект</p>
+        <p>Vue 3, Firebase</p>
+    </td>
+</tr>
+<tr>
+    <td width='320px'>
+        <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
+            <img src='./public/projects/gym.png' width='300px'>
+        </a>
+    </td>
+    <td>
+        <h3><a href='https://github.com/i5anin/vue-gym-training' title='Открыть репозиторий'>gym-training</a></h3>
+        <p>my gym</p>
+        <p>Vue 3 Vuetify</p>
+    </td>
+</tr>
   </table>
 
 </details>
