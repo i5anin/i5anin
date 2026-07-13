@@ -1,0 +1,13 @@
+#!/bin/sh
+# Regenerate README.md from src/readme-generate before every commit
+# and stage the result, so README.md never drifts from its source.
+#
+# Template: see .githooks/README.md for how to reuse this hook
+# in another repo.
+
+set -e
+
+if [ -f package.json ] && grep -q '"gen"' package.json; then
+  npm run gen --silent
+  git add README.md
+fi

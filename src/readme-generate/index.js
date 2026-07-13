@@ -31,25 +31,36 @@ function generateMarkdownFile() {
   const projectsTable = projects.map(renderProjectRow).join('\n')
 
   const markdownContent = `
-## Привет, меня зовут Сергей!
+## Hi, I'm Sergey 👋
 
-##### О себе:
+Frontend/full-stack developer — Vue 3 / Nuxt 3 SPAs, architecturally
+complex UI platforms, Node.js / NestJS backends.
 
-Привет, я Сергей — опытный full-stack DevOps-разработчик.
+I care about maintainable code (SOLID, DRY, KISS, Feature-Sliced Design),
+test coverage, and using AI tooling (Claude Code, Cursor, Copilot) to move
+faster without cutting corners.
 
-В IT начал со школы, продолжил в академии. Прошёл углублённое обучение по Vue.js и React, изучаю и применяю современные архитектурные подходы.
+- 🔭 Currently building CRM and internal tools on Vue 3 + NestJS + Supabase
+- 🌱 Exploring AI-assisted development workflows
+- 📫 Contact: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
 
-⚙️ Комбинирую frontend и backend, проектирую масштабируемые приложения, опираясь на:
+<details>
+<summary><strong>Русский</strong></summary>
 
-\`Feature-Sliced Design (FSD)\` \`Принципы SOLID и ООП\` \`Чистый код и модульность\`
+## Привет, я Сергей 👋
 
-⚡ Анализирую архитектуры, подбираю оптимальные решения под задачи бизнеса.
+Frontend/full-stack разработчик — SPA на Vue 3 / Nuxt 3, архитектурно
+сложные UI-платформы, backend на Node.js / NestJS.
 
-##### Цели и задачи:
+Слежу за поддерживаемостью кода (SOLID, DRY, KISS, Feature-Sliced Design),
+пишу тесты, использую AI-инструменты (Claude Code, Cursor, Copilot) для
+ускорения разработки без потери качества.
 
-- ⚡️ Легко обучаем, любая технология до 2-х недель.
-- 🔎 Использую лучшие практики и придерживаюсь принципов Чистого кода.
-- ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i5anin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i5anin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:isanin.pro@gmail.com)
+- 🔭 Сейчас: CRM и внутренние инструменты на Vue 3 + NestJS + Supabase
+- 🌱 Изучаю AI-workflow в разработке
+- 📫 Связь: Telegram и Gmail — см. выше
+
+</details>
 
 
 #### **Стек знаний:**
