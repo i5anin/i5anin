@@ -1,4 +1,3 @@
-
 ## Hi, I'm Sergey 👋
 
 Frontend/full-stack developer — Vue 3 / Nuxt 3 SPAs, architecturally
@@ -30,8 +29,7 @@ Frontend/full-stack разработчик — SPA на Vue 3 / Nuxt 3, архи
 
 </details>
 
-
-#### **Стек знаний:**
+#### Stack
 <p>
   <img src='./public/ico/vue.svg' alt='Vue.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/nuxtjs.svg' alt='Nuxt.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/telegraf.svg' alt='telegraf.js' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/express.svg' alt='express.js' width='30px' height='30px' style='margin: 2px;'>
   <img src='./public/ico/logo-logomark.svg' alt='Firebase' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/postgresql.svg' alt='PostgreSQL' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/docker-original.svg' alt='Docker' width='30px' height='30px' style='margin: 2px;'><img src='./public/ico/yandex-cloud.svg' alt='Yandex Cloud' width='30px' height='30px' style='margin: 2px;'>
@@ -39,134 +37,97 @@ Frontend/full-stack разработчик — SPA на Vue 3 / Nuxt 3, архи
   <img src='./public/ico/typescript-original.svg' alt='TypeScript' width='30px' height='30px' style='margin: 2px;'>
 </p>
 
+#### Activity
+<picture>
+  <source media='(prefers-color-scheme: dark)' srcset='./public/metrics/metrics.dark.svg'>
+  <source media='(prefers-color-scheme: light)' srcset='./public/metrics/metrics.svg'>
+  <img src='./public/metrics/metrics.svg' width='100%'>
+</picture>
 
+<sub>Rendered by <a href='https://github.com/lowlighter/metrics'>lowlighter/metrics</a>, refreshed daily by <a href='.github/workflows/metrics.yml'>GitHub Actions</a> — no manual edits.</sub>
 
 <details>
-  <summary><strong>🧩 Мои проекты</strong></summary>
+  <summary><strong>🧩 Projects</strong></summary>
 
   <table>
     <tr>
     <td width='320px'>
-        <a href='https://i5anin-rubik.vercel.app/' title='Просмотр демо-версии Кубик Рубика'>
+        <a href='https://i5anin-rubik.vercel.app/' title='Demo: Rubik&#39;s Cube'>
             <img src='https://raw.githubusercontent.com/i5anin/rubik/main/docs/cover.svg' width='300px'>
         </a>
     </td>
     <td>
-        <h3><a href='https://github.com/i5anin/rubik' title='Открыть репозиторий'>Кубик Рубика</a></h3>
-        <p>Интерактивный кубик Рубика в браузере.
+        <h3><a href='https://github.com/i5anin/rubik' title='Open repository'>Rubik's Cube</a></h3>
+        <p>Interactive Rubik's Cube in the browser.
 
-• Вращение граней мышью и клавиатурой;
-• Анимация переходов;
-• Генерация случайного перемешивания.</p>
+• Mouse and keyboard face rotation;
+• Transition animation;
+• Random scramble generation.</p>
         <p>Vue 3</p>
     </td>
 </tr>
 <tr>
     <td width='320px'>
-        <a href='https://final-vue-crm.vercel.app/' title='Просмотр демо-версии CRM'>
+        <a href='https://final-vue-crm.vercel.app/' title='Demo: CRM'>
             <img src='./public/projects/crm.png' width='300px'>
         </a>
     </td>
     <td>
-        <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Открыть репозиторий'>CRM</a></h3>
-        <p>Система управления клиентами на Vue 3.
+        <h3><a href='https://gitlab.com/sergey.isanin/crm_final_vue' title='Open repository'>CRM</a></h3>
+        <p>Customer management system on Vue 3.
 
-• Учёт клиентов и сделок;
-• Авторизация и разграничение доступа;
-• Финальный проект курса Skillbox.</p>
+• Client and deal tracking;
+• Authorization and access control;
+• Skillbox capstone project.</p>
         <p>Vue 3</p>
     </td>
 </tr>
 <tr>
     <td width='320px'>
-        <a href='https://drag-and-drop-inventory.vercel.app/' title='Просмотр демо-версии Инвентарь'>
+        <a href='https://drag-and-drop-inventory.vercel.app/' title='Demo: Inventory'>
             <img src='./public/projects/inventory.png' width='300px'>
         </a>
     </td>
     <td>
-        <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Открыть репозиторий'>Инвентарь</a></h3>
-        <p>Инвентарь — Vue 3 SPA
-Одностраничное приложение-инвентарь, реализованное на Vue 3 (Composition API).
+        <h3><a href='https://github.com/i5anin/drag-and-drop-inventory' title='Open repository'>Inventory</a></h3>
+        <p>Single-page inventory app on Vue 3 (Composition API).
 
-Особенности:
-
-• Drag & Drop перемещение предметов;
-• Сохранение данных в localStorage (автономная работа без сервера);
-• Плашка с описанием и удалением при клике на предмет;
-• Полностью кастомный UI на SCSS, без UI-фреймворков;
-• Структурированная архитектура: модульная разбивка, вынос логики, переиспользуемые компоненты.</p>
+• Drag & drop item placement;
+• localStorage persistence (works offline, no server);
+• Item details and removal on click;
+• Fully custom UI in SCSS, no UI framework;
+• Modular architecture with reusable components.</p>
         <p>Vue 3</p>
     </td>
 </tr>
 <tr>
     <td width='320px'>
-        <a href='https://order-btc-vue3.vercel.app/' title='Просмотр демо-версии Биржевой стакан'>
+        <a href='https://order-btc-vue3.vercel.app/' title='Demo: Order Book'>
             <img src='./public/projects/orderbook.png' width='300px'>
         </a>
     </td>
     <td>
-        <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Открыть репозиторий'>Биржевой стакан</a></h3>
-        <p>Биржевой стакан BTC/USDT в реальном времени.
+        <h3><a href='https://github.com/i5anin/Order-Book-Vue3' title='Open repository'>Order Book</a></h3>
+        <p>Real-time BTC/USDT order book.
 
-• WebSocket подключение к бирже;
-• Отображение ордеров на покупку и продажу;
-• Автообновление без перезагрузки страницы.</p>
+• WebSocket connection to the exchange;
+• Live bid/ask display;
+• Auto-refresh without page reload.</p>
         <p>Vue 3, Element Plus</p>
     </td>
 </tr>
 <tr>
     <td width='320px'>
-        <a href='https://exam-vue.vercel.app' title='Просмотр демо-версии Магазин нижнего белья Moire'>
+        <a href='https://exam-vue.vercel.app' title='Demo: Moire'>
             <img src='./public/projects/moire.png' width='300px'>
         </a>
     </td>
     <td>
-        <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Открыть репозиторий'>Магазин нижнего белья Moire</a></h3>
-        <p>
-Полноценная версия
-Финальный проект Skillbox</p>
+        <h3><a href='https://gitlab.com/sergey.isanin/exam_vue' title='Open repository'>Moire lingerie shop</a></h3>
+        <p>Full-featured store front, Skillbox capstone project.</p>
         <p>Vue 3</p>
-    </td>
-</tr>
-<tr>
-    <td width='320px'>
-        <a href='#' title='Просмотр демо-версии Coin банк BTC'>
-            <img src='./public/projects/coin.gif' width='300px'>
-        </a>
-    </td>
-    <td>
-        <h3><a href='https://gitlab.com/sergey.isanin/final_javascript_pro' title='Открыть репозиторий'>Coin банк BTC</a></h3>
-        <p>JavaScript
-Перевод средств между счетами</p>
-        <p>JavaScript</p>
-    </td>
-</tr>
-<tr>
-    <td width='320px'>
-        <a href='#' title='Просмотр демо-версии ToDoList'>
-            <img src='./public/projects/todo-list.png' width='300px'>
-        </a>
-    </td>
-    <td>
-        <h3><a href='https://github.com/i5anin/first_todo-list' title='Открыть репозиторий'>ToDoList</a></h3>
-        <p>Первый проект</p>
-        <p>Vue 3, Firebase</p>
-    </td>
-</tr>
-<tr>
-    <td width='320px'>
-        <a href='https://my-gym-training.vercel.app/' title='Просмотр демо-версии gym-training'>
-            <img src='./public/projects/gym.png' width='300px'>
-        </a>
-    </td>
-    <td>
-        <h3><a href='https://github.com/i5anin/vue-gym-training' title='Открыть репозиторий'>gym-training</a></h3>
-        <p>my gym</p>
-        <p>Vue 3 Vuetify</p>
     </td>
 </tr>
   </table>
 
 </details>
-
-<img src='https://wakatime.com/share/@PizZzA/45b438ae-a22d-4d27-a746-2bc9c9dc7b53.svg' width='655'>
