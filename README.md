@@ -29,10 +29,3 @@ Frontend/full-stack разработчик — SPA на Vue 3 / Nuxt 3, архи
 
 </details>
 
-<picture>
-  <source media='(prefers-color-scheme: dark)' srcset='./public/metrics/metrics.dark.svg'>
-  <source media='(prefers-color-scheme: light)' srcset='./public/metrics/metrics.svg'>
-  <img src='./public/metrics/metrics.svg' width='100%'>
-</picture>
-
-<sub>Commit calendar and language stats are rendered by <a href='https://github.com/lowlighter/metrics'>lowlighter/metrics</a> and refreshed daily by <a href='.github/workflows/metrics.yml'>GitHub Actions</a> — nothing below this line is edited by hand.</sub>
