@@ -35,4 +35,4 @@ Frontend/full-stack разработчик — SPA на Vue 3 / Nuxt 3, архи
   <img src='./public/metrics/metrics.svg' width='100%'>
 </picture>
 
-<sub>Stack, activity and pinned repositories are rendered by <a href='https://github.com/lowlighter/metrics'>lowlighter/metrics</a> and refreshed daily by <a href='.github/workflows/metrics.yml'>GitHub Actions</a> — nothing below this line is edited by hand. Pin/unpin repos on the <a href='https://github.com/i5anin'>profile page</a> to change what shows up here.</sub>
+<sub>Commit calendar and language stats are rendered by <a href='https://github.com/lowlighter/metrics'>lowlighter/metrics</a> and refreshed daily by <a href='.github/workflows/metrics.yml'>GitHub Actions</a> — nothing below this line is edited by hand.</sub>
