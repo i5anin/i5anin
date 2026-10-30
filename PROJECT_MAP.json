@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "snapshot": "2026-10-30T14:47:11.360Z",
+  "project": "i5anin",
+  "root": ".",
+  "method": "static-local-index",
+  "limitations": [
+    "Нет динамических вызовов и сетевых интеграций",
+    "Сверять sha256 и evidence.line с текущими исходниками",
+    "Наличие зависимости не доказывает работоспособность"
+  ],
+  "nodes": [
+    {
+      "id": "project:i5anin",
+      "type": "project",
+      "name": "i5anin"
+    },
+    {
+      "id": "project:i5anin/file:.github/workflows/README.md",
+      "type": "file",
+      "path": ".github/workflows/README.md",
+      "sha256": "664525bffca249e96f84fb7fc8a9e92ed910552dbda107a558e89e091f50806e",
+      "bytes": 2010
+    },
+    {
+      "id": "project:i5anin/file:Icons.md",
+      "type": "file",
+      "path": "Icons.md"
+    },
+    {
+      "id": "project:i5anin/file:README.md",
+      "type": "file",
+      "path": "README.md",
+      "sha256": "5e0a5f7df6edc327cba5fa03cc1f5aa13b8a6a6751ba34ce38ae40000a977c69",
+      "bytes": 1505
+    },
+    {
+      "id": "project:i5anin/file:doc/AboutMe.md",
+      "type": "file",
+      "path": "doc/AboutMe.md"
+    },
+    {
+      "id": "project:i5anin/file:doc/ck.md",
+      "type": "file",
+      "path": "doc/ck.md"
+    },
+    {
+      "id": "project:i5anin/file:doc/gusar.md",
+      "type": "file",
+      "path": "doc/gusar.md"
+    },
+    {
+      "id": "project:i5anin/file:doc/pf-forum.md",
+      "type": "file",
+      "path": "doc/pf-forum.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:.github/workflows/README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": ".github/workflows/README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:Icons.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "Icons.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:doc/AboutMe.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "doc/AboutMe.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:doc/ck.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "doc/ck.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:doc/gusar.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "doc/gusar.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:i5anin",
+      "target": "project:i5anin/file:doc/pf-forum.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "doc/pf-forum.md"
+      },
+      "method": "filesystem"
+    }
+  ]
+}
