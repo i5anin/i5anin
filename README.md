@@ -1,3 +1,6 @@
+
+**ЦКП:** Профессиональная самопрезентация разработчика со ссылками на его проекты и опыт.
+
 ## Hi, I'm Sergey 👋
 
 Frontend/full-stack developer — Vue 3 / Nuxt 3 SPAs, architecturally
